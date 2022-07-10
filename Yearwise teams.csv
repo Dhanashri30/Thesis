@@ -40,12 +40,12 @@ Player Id,Player name,IPL2020,IPL2021,IPL2022
 1454,Amit Mishra,Delhi Capitals,Delhi Capitals,
 12094,Prithvi Shaw,Delhi Capitals,Delhi Capitals,Delhi Capitals
 13162,Daniel Sams,Delhi Capitals,NA,Mumbai Indians
-9585,Kagiso Rabada,Delhi Capitals,Delhi Capitals,Mumbai Indians
+9585,Kagiso Rabada,Delhi Capitals,Delhi Capitals,Punjab Kings
 8808,Axar Patel,Delhi Capitals,Delhi Capitals,Delhi Capitals
 10744,Rishabh Pant,Delhi Capitals,Delhi Capitals,Delhi Capitals
 11158,Sandeep Lamichhane,Delhi Capitals,NA,
 9789,Shimron Hetmyer,Delhi Capitals,Delhi Capitals,Rajasthan Royals
-1446,Shikhar Dhawan,Delhi Capitals,Delhi Capitals,Mumbai Indians
+1446,Shikhar Dhawan,Delhi Capitals,Delhi Capitals,Punjab Kings
 9200,Alex Carey,Delhi Capitals,NA,
 1593,Ravichandran Ashwin,Delhi Capitals,Delhi Capitals,Rajasthan Royals
 8733,KL Rahul,Punjab Kings,Punjab Kings,Lucknow Super Giants
@@ -58,18 +58,18 @@ Player Id,Player name,IPL2020,IPL2021,IPL2022
 12071,Mujeeb Ur Rahman,Punjab Kings,Sunrisers Hyderabad,
 12779,Darshan Nalkande,Punjab Kings,Punjab Kings,Gujarat Titans
 9406,Nicholas Pooran,Punjab Kings,Punjab Kings,Sunrisers Hyderabad
-14254,Prabhsimran Singh,Punjab Kings,NA,Mumbai Indians
+14254,Prabhsimran Singh,Punjab Kings,NA,Punjab Kings
 10357,Jagadeesha Suchith,Punjab Kings,Punjab Kings,Sunrisers Hyderabad
 9493,Hardus Viljoen,Punjab Kings,NA,
 12506,Tajinder Singh,Punjab Kings,NA,
 14659,Ravi Bishnoi,Punjab Kings,Punjab Kings,Lucknow Super Giants
-11404,Ishan Porel,Punjab Kings,Punjab Kings,Mumbai Indians
+11404,Ishan Porel,Punjab Kings,Punjab Kings,Punjab Kings
 8983,James Neesham,Punjab Kings,Mumbai Indians,Rajasthan Royals
 8257,Karun Nair,Punjab Kings,Kolkata Knight Riders,Rajasthan Royals
 7909,Mohammed Shami,Punjab Kings,Punjab Kings,Gujarat Titans
 6319,Mandeep Singh,Punjab Kings,Punjab Kings,Delhi Capitals
 6532,Chris Jordan,Punjab Kings,Punjab Kings,Chennai Super Kings
-14452,Harpreet Brar,Punjab Kings,Punjab Kings,Mumbai Indians
+14452,Harpreet Brar,Punjab Kings,Punjab Kings,Punjab Kings
 247,Chris Gayle,Punjab Kings,Punjab Kings,
 8796,Murugan Ashwin,Punjab Kings,Punjab Kings,Mumbai Indians
 2195,Mayank Agarwal,Punjab Kings,Punjab Kings,Mumbai Indians
@@ -102,7 +102,7 @@ Siddhesh Lad",Kolkata Knight Riders,NA,
 576,Rohit Sharma,Mumbai Indians,Mumbai Indians,Mumbai Indians
 8117,"
 Trent Boult",Mumbai Indians,Mumbai Indians,Rajasthan Royals
-12087,Rahul Chahar,Mumbai Indians,Mumbai Indians,Mumbai Indians
+12087,Rahul Chahar,Mumbai Indians,Mumbai Indians,Punjab Kings
 8520,Quinton de Kock,Mumbai Indians,Mumbai Indians,Lucknow Super Giants
 10276,Ishan Kishan,Mumbai Indians,Mumbai Indians,Mumbai Indians
 7752,Chris Lynn,Mumbai Indians,Mumbai Indians,
@@ -193,14 +193,14 @@ Rashid Khan",Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans
 6326,Kane Williamson,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad
 10213,Virat Singh,Sunrisers Hyderabad,Sunrisers Hyderabad,
 8204,Vijay Shankar,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans
-8356,Sandeep Sharma,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians
+8356,Sandeep Sharma,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings
 1465,Wriddhiman Saha,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans
 13113,Prithvi Raj,Sunrisers Hyderabad,NA,
 10225,T Natarajan,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad
 3007,Mohammad Nabi,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders
 8313,Jason Holder,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders
 12089,Priyam Garg,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad
-6507,Jonny Bairstow,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians
+6507,Jonny Bairstow,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings
 10952,"
 Khaleel Ahmed",Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals
 14628,Abdul Samad,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad
@@ -216,7 +216,7 @@ Khaleel Ahmed",Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals
 9443,Tim Seifert,NA,Kolkata Knight Riders,Delhi Capitals
 544,Shakib al Hasan,NA,Kolkata Knight Riders,
 8846,Sheldon Jackson,NA,Kolkata Knight Riders,Kolkata Knight Riders
-15861,Vaibhav Arora,NA,Kolkata Knight Riders,Mumbai Indians
+15861,Vaibhav Arora,NA,Kolkata Knight Riders,Punjab Kings
 8118,Ben Cutting,NA,Kolkata Knight Riders,
 10917,Venkatesh Iyer,NA,Kolkata Knight Riders,Kolkata Knight Riders
 7625,Adam Milne,NA,Mumbai Indians,
@@ -225,16 +225,16 @@ Khaleel Ahmed",Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals
 13747,Arjun Tendulkar,NA,Mumbai Indians,Mumbai Indians
 6660,Dawid Malan,NA,Punjab Kings,
 10280,Jhye Richardson,NA,Punjab Kings,
-10226,Shahrukh Khan,NA,Punjab Kings,Mumbai Indians
+10226,Shahrukh Khan,NA,Punjab Kings,Punjab Kings
 12226,Riley Meredith,NA,Punjab Kings,Mumbai Indians
 1437,Moises Henriques,NA,Punjab Kings,
 8107,Jalaj Saxena,NA,Punjab Kings,
 12630,Utkarsh Singh,NA,Punjab Kings,
 10260,Saurabh Kumar,NA,Punjab Kings,
-15480,Nathan Ellis,NA,Punjab Kings,Mumbai Indians
+15480,Nathan Ellis,NA,Punjab Kings,Punjab Kings
 9863,Mustafizur Rahim,NA,Rajasthan Royals,
 13494,Chetan Sakariya,NA,Rajasthan Royals,Delhi Capitals
-10045,Liam Livingstone,NA,Rajasthan Royals,Mumbai Indians
+10045,Liam Livingstone,NA,Rajasthan Royals,Punjab Kings
 13537,Kuldip Yadav,NA,Rajasthan Royals,Rajasthan Royals
 10693,Glenn Phillips,NA,Rajasthan Royals,Sunrisers Hyderabad
 8709,Sachin Baby,NA,Royal Challengers Bangalore,
@@ -295,17 +295,17 @@ Khaleel Ahmed",Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals
 14190,Kumar Kartikeya Singh,,,Mumbai Indians
 7860,Tymal Mills,,,Mumbai Indians
 14595,Hrithik Shokeen,,,Mumbai Indians
-11054,Prerak Mankad,,,Mumbai Indians
-7869,Bhanuka Rajapaksa,,,Mumbai Indians
-10214,Jitesh Sharma,,,Mumbai Indians
-9717,Writtick Chatterjee,,,Mumbai Indians
-11215,Odean Smith,,,Mumbai Indians
-22601,"Raj Bawa	",,,Mumbai Indians
-6641,Benny Howell,,,Mumbai Indians
-8962,Baltej Singh,,,Mumbai Indians
-19262,Ansh Patel,,,Mumbai Indians
-8616,Rishi Dhawan,,,Mumbai Indians
-13914,Atharva Taide,,,Mumbai Indians
+11054,Prerak Mankad,,,Punjab Kings
+7869,Bhanuka Rajapaksa,,,Punjab Kings
+10214,Jitesh Sharma,,,Punjab Kings
+9717,Writtick Chatterjee,,,Punjab Kings
+11215,Odean Smith,,,Punjab Kings
+22601,"Raj Bawa	",,,Punjab Kings
+6641,Benny Howell,,,Punjab Kings
+8962,Baltej Singh,,,Punjab Kings
+19262,Ansh Patel,,,Punjab Kings
+8616,Rishi Dhawan,,,Punjab Kings
+13914,Atharva Taide,,,Punjab Kings
 9554,Rassie van der Dussen,,,Rajasthan Royals
 14691,Dhruv Jurel,,,Rajasthan Royals
 22471,Shubham Garhwal,,,Rajasthan Royals
