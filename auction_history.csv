@@ -1,257 +1,257 @@
-playerId,Player name,2022,2021,2020,2019,2018,2017,2016,2015,2014,auctionStatus,country,role
-265.0,MS Dhoni,12.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,retained,India,WK-Batter
-7836.0,Deepak Chahar,14.0 Cr,80.0 L,80.0 L,80.0 L,80.0 L,10.0 L,10.0 L,0,0,sold,India,Bowler
-11813.0,Ruturaj Gaikwad,6.0 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,retained,India,Batter
-6667.0,Imran Tahir,0,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,50.0 L,1.0 Cr,1.0 Cr,1.0 Cr,unsold,South Africa,Bowler
-1851.0,Kedar Jadhav,2.0 Cr,7.80 Cr,7.80 Cr,7.80 Cr,2.0 Cr,2.0 Cr,2.0 Cr,2.0 Cr,0,unauctioned,India,Allrounder
-9783.0,Monu Kumar,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,0,unauctioned,India,Bowler
-6311.0,Ambati Rayudu,6.75 Cr,2.20 Cr,2.20 Cr,2.20 Cr,2.20 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,sold,India,WK-Batter
-10100.0,Mitchell Santner,50.0 L,50.0 L,50.0 L,50.0 L,0,0,0,0,0,sold,New Zealand,Allrounder
-8683.0,Shardul Thakur,10.75 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,20.0 L,20.0 L,20.0 L,20.0 L,sold,India,Bowler
-413.0,Suresh Raina,0,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,12.50 Cr,9.50 Cr,9.50 Cr,9.50 Cr,unsold,India,Batter
-242.0,Dwayne Bravo,4.40 Cr,6.40 Cr,6.40 Cr,6.40 Cr,6.40 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,sold,West Indies,Allrounder
-1844.0,Karn Sharma,5.0 Cr,5.0 Cr,5.0 Cr,5.0 Cr,3.20 Cr,3.75 Cr,3.75 Cr,3.75 Cr,0,sold,India,Bowler
-11595.0,Ravisrinivasan Sai Kishore,3.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
-11595.0,Ravisrinivasan Sai Kishore,3.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
-11595.0,R Sai Kishore,3.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
-11595.0,R Sai Kishore,3.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
-9603.0,Lungi Ngidi,50.0 L,50.0 L,50.0 L,50.0 L,0,0,0,0,0,sold,South Africa,Bowler
-11675.0,Narayan Jagadeesan,0,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,sold,India,WK-Batter
-587.0,Ravindra Jadeja,16.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,9.50 Cr,5.50 Cr,5.50 Cr,5.50 Cr,retained,India,Allrounder
-6258.0,Josh Hazlewood,7.75 Cr,2.0 Cr,2.0 Cr,0,0,0,0,0,0,sold,Australia,Bowler
-7825.0,Faf du Plessis,7.0 Cr,1.60 Cr,1.60 Cr,1.60 Cr,1.60 Cr,4.0 Cr,4.75 Cr,4.75 Cr,4.75 Cr,sold,South Africa,Batter
-466.0,Piyush Chawla,2.40 Cr,6.75 Cr,4.20 Cr,4.20 Cr,4.25 Cr,4.25 Cr,4.25 Cr,4.25 Cr,0,unsold,India,Bowler
-13483.0,KM Asif,20.0 L,40.0 L,40.0 L,40.0 L,40.0 L,0,0,0,0,sold,India,Bowler
-9428.0,Shreyas Iyer,12.25 Cr,7.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,2.60 Cr,2.60 Cr,2.60 Cr,0,sold,India,Batter
-9781.0,Avesh Khan,10.0 Cr,70.0 L,70.0 L,70.0 L,70.0 L,10.0 L,0,0,0,sold,India,Bowler
-11307.0,Tushar Deshpande,20.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
-10484.0,Praveen Dubey,20.0 L,0,0,0,35.0 L,35.0 L,0,0,0,sold,India,Bowler
-10484.0,Praveen Dubey,20.0 L,0,0,0,35.0 L,35.0 L,0,0,0,sold,India,Bowler
-10484.0,Praveen Dubey,20.0 L,0,0,0,35.0 L,35.0 L,0,0,0,sold,India,Bowler
-10484.0,Praveen Dubey,20.0 L,0,0,0,35.0 L,35.0 L,0,0,0,sold,India,Bowler
-13252.0,Lalit Yadav,20.0 L,20.0 L,0,0,0,0,0,0,0,sold,India,Allrounder
-11427.0,Anrich Nortje,6.50 Cr,50.0 L,50.0 L,0,0,0,0,0,0,retained,South Africa,Bowler
-8175.0,Harshal Patel,10.75 Cr,20.0 L,20.0 L,20.0 L,20.0 L,40.0 L,40.0 L,40.0 L,40.0 L,sold,India,Bowler
-11214.0,Keemo Paul,0,0,0,0,0,0,0,0,0,unauctioned,West Indies,Allrounder
-1447.0,Ajinkya Rahane,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,8.0 Cr,8.0 Cr,7.50 Cr,7.50 Cr,0,sold,India,Batter
-8181.0,Mohit Sharma,0,0,0,0,0,0,0,0,0,unauctioned,India,Bowler
-8989.0,Marcus Stoinis,9.20 Cr,4.80 Cr,4.80 Cr,6.20 Cr,6.20 Cr,55.0 L,55.0 L,0,0,drafted,Australia,Allrounder
-6534.0,Jason Roy,2.0 Cr,2.0 Cr,0,0,1.50 Cr,1.0 Cr,0,0,0,sold,England,Batter
-702.0,Ishant Sharma,1.10 Cr,1.10 Cr,1.10 Cr,0,2.0 Cr,3.80 Cr,1.50 Cr,1.50 Cr,0,unsold,India,Bowler
-1454.0,Amit Mishra,0,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,3.50 Cr,3.50 Cr,3.50 Cr,4.75 Cr,unsold,India,Bowler
-12094.0,Prithvi Shaw,7.50 Cr,1.20 Cr,1.20 Cr,1.20 Cr,1.20 Cr,0,0,0,0,retained,India,Batter
-13162.0,Daniel Sams,20.0 L,20.0 L,0,0,0,0,0,0,0,sold,Australia,Allrounder
-9585.0,Kagiso Rabada,9.25 Cr,4.20 Cr,4.20 Cr,4.20 Cr,4.20 Cr,5.0 Cr,0,0,0,sold,South Africa,Bowler
-8808.0,Axar Patel,9.0 Cr,5.0 Cr,5.0 Cr,5.0 Cr,12.50 Cr,75.0 L,75.0 L,75.0 L,75.0 L,retained,India,Allrounder
-10744.0,Rishabh Pant,16.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,1.90 Cr,1.90 Cr,0,0,retained,India,WK-Batter
-11158.0,Sandeep Lamichhane,0,0,0,0,0,0,0,0,0,unsold,Nepal,Bowler
-9789.0,Shimron Hetmyer,8.50 Cr,7.75 Cr,7.75 Cr,4.20 Cr,0,0,0,0,0,sold,West Indies,Batter
-1446.0,Shikhar Dhawan,8.25 Cr,5.20 Cr,5.20 Cr,5.20 Cr,5.20 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,sold,India,Batter
-1593.0,Ravichandran Ashwin,5.0 Cr,7.60 Cr,7.60 Cr,7.60 Cr,7.60 Cr,7.50 Cr,7.50 Cr,7.50 Cr,7.50 Cr,sold,India,Allrounder
-8733.0,KL Rahul,17.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,0,1.0 Cr,1.0 Cr,1.0 Cr,drafted,India,WK-Batter
-13217.0,Arshdeep Singh,4.0 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,retained,India,Bowler
-9395.0,Sheldon Cottrell,0,0,0,0,0,0,0,0,0,unsold,West Indies,Bowler
-8925.0,Krishnappa Gowtham,9.25 Cr,6.20 Cr,6.20 Cr,6.20 Cr,2.0 Cr,0,0,0,0,sold,India,Allrounder
-9427.0,Deepak Hooda,5.75 Cr,50.0 L,3.60 Cr,3.60 Cr,3.60 Cr,0,0,0,0,sold,India,Allrounder
-9429.0,Sarfaraz khan,20.0 L,25.0 L,25.0 L,25.0 L,1.75 Cr,0,50.0 L,50.0 L,0,sold,India,Batter
-7662.0,Glenn Maxwell,11.0 Cr,14.25 Cr,10.75 Cr,0,9.0 Cr,6.0 Cr,6.0 Cr,6.0 Cr,6.0 Cr,retained,Australia,Allrounder
-12071.0,Mujeeb Ur Rahman,0,1.50 Cr,4.0 Cr,4.0 Cr,4.0 Cr,0,0,0,0,unsold,Afghanistan,Bowler
-12779.0,Darshan Nalkande,30.0 L,30.0 L,30.0 L,0,0,0,0,0,0,sold,India,Bowler
-9406.0,Nicholas Pooran,10.75 Cr,4.20 Cr,4.20 Cr,4.20 Cr,0,30.0 L,0,0,0,sold,West Indies,WK-Batter
-14254.0,Prabhsimran Singh,60.0 L,55.0 L,4.80 Cr,4.80 Cr,0,0,0,0,0,sold,India,WK-Batter
-10357.0,Jagadeesha Suchith,20.0 L,30.0 L,20.0 L,20.0 L,0,10.0 L,10.0 L,10.0 L,0,sold,India,Bowler
-14659.0,Ravi Bishnoi,4.0 Cr,2.0 Cr,2.0 Cr,0,0,0,0,0,0,drafted,India,Bowler
-11404.0,Ishan Porel,25.0 L,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
-8983.0,James Neesham,50.0 L,50.0 L,0,0,0,0,0,1.0 Cr,0,sold,New Zealand,Allrounder
-8257.0,Karun Nair,50.0 L,5.60 Cr,5.60 Cr,5.60 Cr,4.0 Cr,4.0 Cr,75.0 L,75.0 L,0,sold,India,Batter
-7909.0,Mohammed Shami,6.25 Cr,4.80 Cr,4.80 Cr,4.80 Cr,3.0 Cr,0,4.25 Cr,4.25 Cr,4.25 Cr,sold,India,Bowler
-6319.0,Mandeep Singh,1.40 Cr,1.40 Cr,1.40 Cr,1.40 Cr,0,0,0,0,0,sold,India,Batter
-6532.0,Chris Jordan,3.0 Cr,3.0 Cr,0,1.0 Cr,50.0 L,0,0,0,0,sold,England,Allrounder
-14452.0,Harpreet Brar,3.80 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Bowler
-8796.0,Murugan Ashwin,1.60 Cr,20.0 L,20.0 L,20.0 L,2.20 Cr,1.0 Cr,4.50 Cr,0,0,sold,India,Bowler
-2195.0,Mayank Agarwal,12.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,1.60 Cr,1.60 Cr,1.60 Cr,1.60 Cr,retained,India,Batter
-624.0,Eoin Morgan,5.25 Cr,5.25 Cr,0,0,2.0 Cr,1.50 Cr,1.50 Cr,0,0,unsold,England,Batter
-8095.0,Pat Cummins,7.25 Cr,15.50 Cr,15.50 Cr,0,5.40 Cr,4.50 Cr,0,1.0 Cr,1.0 Cr,sold,Australia,Bowler
-10162.0,Chris Green,0,0,0,0,0,0,0,0,0,unauctioned,Australia,Allrounder
-8292.0,Kuldeep Yadav,2.0 Cr,5.80 Cr,5.80 Cr,5.80 Cr,5.80 Cr,40.0 L,40.0 L,40.0 L,40.0 L,sold,India,Bowler
-12092.0,Kamlesh Nagarkoti,1.10 Cr,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,0,0,0,0,sold,India,Bowler
-2276.0,Sunil Narine,6.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,9.50 Cr,9.50 Cr,9.50 Cr,9.50 Cr,retained,West Indies,Allrounder
-9204.0,Nitish Rana,8.0 Cr,3.40 Cr,3.40 Cr,3.40 Cr,3.40 Cr,10.0 L,10.0 L,10.0 L,0,sold,India,Allrounder
-8944.0,Sandeep Warrier,20.0 L,20.0 L,20.0 L,0,0,0,10.0 L,10.0 L,0,unsold,India,Bowler
-11808.0,Shubman Gill,8.0 Cr,1.80 Cr,1.80 Cr,1.80 Cr,1.80 Cr,0,0,0,0,drafted,India,Batter
-10896.0,Rinku Singh,80.0 L,80.0 L,80.0 L,80.0 L,10.0 L,0,0,0,0,sold,India,Batter
-12926.0,Varun Chakravarthy,8.0 Cr,4.0 Cr,4.0 Cr,8.40 Cr,0,0,0,0,0,retained,India,Bowler
-11450.0,Ali Khan,0,0,0,0,0,0,0,0,0,unauctioned,United States,Bowler
-9012.0,Rahul Tripathi,8.50 Cr,60.0 L,60.0 L,3.40 Cr,3.40 Cr,10.0 L,0,0,0,sold,India,Batter
-12345.0,Shivam Mavi,7.25 Cr,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,0,0,0,0,sold,India,Bowler
-7736.0,Andre Russell,12.0 Cr,8.50 Cr,8.50 Cr,8.50 Cr,8.50 Cr,0,60.0 L,60.0 L,60.0 L,retained,West Indies,Allrounder
-10551.0,Prasidh Krishna,10.0 Cr,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,sold,India,Bowler
-9295.0,Nikhil Naik,0,0,0,0,0,0,0,0,0,unauctioned,India,WK-Batter
-145.0,Dinesh Karthik,5.50 Cr,7.40 Cr,7.40 Cr,7.40 Cr,7.40 Cr,2.30 Cr,2.30 Cr,10.50 Cr,12.50 Cr,sold,India,WK-Batter
-10692.0,Lockie Ferguson,10.0 Cr,1.60 Cr,1.60 Cr,1.60 Cr,0,50.0 L,0,0,0,sold,New Zealand,Bowler
-576.0,Rohit Sharma,16.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,retained,India,Batter
-8117.0,"
-Trent Boult",8.0 Cr,2.20 Cr,2.20 Cr,2.20 Cr,2.20 Cr,5.0 Cr,3.80 Cr,3.80 Cr,0,sold,New Zealand,Bowler
-12087.0,Rahul Chahar,5.25 Cr,1.90 Cr,1.90 Cr,1.90 Cr,1.90 Cr,10.0 L,0,0,0,sold,India,Bowler
-8520.0,Quinton de Kock,6.75 Cr,2.80 Cr,2.80 Cr,2.80 Cr,2.80 Cr,3.50 Cr,3.50 Cr,3.50 Cr,3.50 Cr,sold,South Africa,WK-Batter
-10276.0,Ishan Kishan,15.25 Cr,6.20 Cr,6.20 Cr,6.20 Cr,6.20 Cr,35.0 L,35.0 L,0,0,sold,India,WK-Batter
-7752.0,Chris Lynn,2.0 Cr,2.0 Cr,9.60 Cr,9.60 Cr,1.30 Cr,1.30 Cr,1.30 Cr,1.30 Cr,0,unauctioned,Australia,Batter
-9647.0,Hardik Pandya,15.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,10.0 L,10.0 L,10.0 L,0,drafted,India,Allrounder
-657.0,Kieron Pollard,6.0 Cr,5.40 Cr,5.40 Cr,5.40 Cr,5.40 Cr,7.50 Cr,7.50 Cr,7.50 Cr,7.50 Cr,retained,West Indies,Allrounder
-12344.0,Anukul Roy,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Allrounder
-6315.0,Aditya Tare,20.0 L,20.0 L,20.0 L,20.0 L,25.0 L,25.0 L,1.6 Cr,1.60 Cr,0,unauctioned,India,WK-Batter
-8182.0,Jayant Yadav,50.0 L,50.0 L,50.0 L,50.0 L,10.0 L,10.0 L,10.0 L,10.0 L,0,sold,India,Allrounder
-7915.0,Suryakumar Yadav,8.0 Cr,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,70.0 L,70.0 L,70.0 L,70.0 L,retained,India,Batter
-1601.0,Saurabh Tiwary,50.0 L,50.0 L,0,50.0 L,30.0 L,70.0 L,70.0 L,70.0 L,0,unsold,India,Batter
-13748.0,Sherfane Rutherford,0,2.0 Cr,2.0 Cr,2.0 Cr,0,0,0,0,0,sold,West Indies,Allrounder
-11311.0,Krunal Pandya,8.25 Cr,8.80 Cr,8.80 Cr,8.80 Cr,8.80 Cr,2.0 Cr,2.0 Cr,0,0,sold,India,Allrounder
-1451.0,Dhawal Kulkarni,75.0 L,75.0 L,75.0 L,75.0 L,2.30 Cr,2.30 Cr,1.10 Cr,1.10 Cr,0,unsold,India,Bowler
-9311.0,Jasprit Bumrah,12.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,1.20 Cr,1.20 Cr,1.20 Cr,1.20 Cr,retained,India,Bowler
-10947.0,Anmolpreet Singh,0,80.0 L,80.0 L,80.0 L,0,0,0,0,0,sold,India,Batter
-2250.0,Steven Smith,0,2.20 Cr,12.50 Cr,12.50 Cr,12.50 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,unsold,Australia,Batter
-14696.0,Akash Singh,20.0 L,0,0,0,0,0,0,0,0,unsold,India,Bowler
-11540.0,Jofra Archer,7.20 Cr,7.20 Cr,7.20 Cr,7.20 Cr,0,0,0,0,0,sold,England,Bowler
-13940.0,Yashasvi Jaiswal,4.0 Cr,2.40 Cr,2.40 Cr,0,0,0,0,0,0,retained,India,Batter
-13136.0,Kartik Tyagi,4.0 Cr,1.30 Cr,1.30 Cr,0,0,0,0,0,0,sold,India,Bowler
-12627.0,Mayank Markande,2.0 Cr,2.0 Cr,20.0 L,20.0 L,0,0,0,0,0,sold,India,Bowler
-12305.0,Riyan Parag,3.80 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Allrounder
-8271.0,Sanju Samson,14.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,4.20 Cr,4.20 Cr,4.0 Cr,4.0 Cr,retained,India,WK-Batter
-11442.0,Oshane Thomas,0,50.0 L,0,0,0,0,0,0,0,unauctioned,West Indies,Allrounder
-6327.0,"
-Jaydev Unadkat",3.0 Cr,3.0 Cr,8.40 Cr,11.50 Cr,30.0 L,1.60 Cr,1.10 Cr,2.80 Cr,0,sold,India,Bowler
-8358.0,Manan Vohra,20.0 L,20.0 L,20.0 L,1.10 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,0,sold,India,Batter
-527.0,Robin Uthappa,2.0 Cr,3.0 Cr,3.0 Cr,6.40 Cr,6.40 Cr,5.0 Cr,5.0 Cr,5.0 Cr,5.0 Cr,sold,India,Batter
-9617.0,Andrew Tye,0,0,0,0,0,0,0,0,0,unsold,Australia,Bowler
-9693.0,Rahul Tewatia,9.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,25.0 L,0,10.0 L,10.0 L,sold,India,Allrounder
-10919.0,Shashank Singh,0,0,0,0,0,0,0,0,0,sold,India,Batter
-8924.0,Ankit Rajpoot,50.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
-6349.0,David Miller,0,75.0 L,75.0 L,3.0 Cr,3.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,sold,South Africa,Batter
-10954.0,Mahipal Lomror,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Allrounder
-9746.0,Shreyas Gopal,75.0 L,20.0 L,20.0 L,20.0 L,20.0 L,10.0 L,10.0 L,10.0 L,10.0 L,sold,India,Bowler
-2258.0,Jos Buttler,10.0 Cr,4.40 Cr,4.40 Cr,4.40 Cr,4.40 Cr,3.80 Cr,3.80 Cr,0,0,retained,England,WK-Batter
-13135.0,Anuj Rawat,3.40 Cr,80.0 L,80.0 L,0,0,0,0,0,0,sold,India,WK-Batter
-6293.0,Varun Aaron,0,0,0,0,0,0,0,0,0,sold,India,Bowler
-1413.0,Virat Kohli,15.0 Cr,17.0 Cr,17.0 Cr,17.0 Cr,17.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,retained,India,Batter
-7910.0,Yuzvendra Chahal,6.50 Cr,6.0 Cr,6.0 Cr,6.0 Cr,6.0 Cr,10.0 L,10.0 L,10.0 L,10.0 L,sold,India,Bowler
-1643.0,Aaron Finch,0,0,0,0,0,0,0,0,0,unsold,Australia,Batter
-10808.0,Mohammed Siraj,7.0 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,0,0,0,retained,India,Bowler
-8281.0,Pawan Negi,50.0 L,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,8.50 Cr,10.0 L,10.0 L,0,unsold,India,Allrounder
-9715.0,Navdeep Saini,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,0,0,0,0,0,sold,India,Bowler
-10945.0,Washington Sundar,8.75 Cr,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,0,0,0,0,sold,India,Allrounder
-8642.0,Adam Zampa,0,1.50 Cr,1.50 Cr,0,0,30.0 L,30.0 L,0,0,unsold,Australia,Bowler
-1858.0,Umesh Yadav,0,1.0 Cr,4.20 Cr,4.20 Cr,4.20 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,sold,India,Bowler
-1920.0,Isuru Udana,0,0,0,0,0,0,0,0,0,unauctioned,Sri Lanka,Allrounder
-14606.0,Shahbaz Ahmed,2.40 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Allrounder
-13172.0,Josh Philippe,20.0 L,20.0 L,0,0,0,0,0,0,0,unauctioned,Australia,WK-Batter
-13088.0,Devdutt Padikkal,7.75 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Batter
-8298.0,Gurkeerat Singh Mann,0,50.0 L,50.0 L,75.0 L,1.30 Cr,1.30 Cr,1.30 Cr,1.30 Cr,0,sold,India,Allrounder
-11195.0,Shivam Dube,4.40 Cr,5.0 Cr,5.0 Cr,0,0,0,0,0,0,sold,India,Allrounder
-6692.0,Moeen Ali,8.0 Cr,7.0 Cr,1.70 Cr,1.70 Cr,1.70 Cr,0,0,0,0,retained,England,Allrounder
-1739.0,David Warner,6.25 Cr,12.50 Cr,12.50 Cr,12.50 Cr,0,5.50 Cr,5.50 Cr,5.50 Cr,5.50 Cr,sold,Australia,Batter
-12086.0,Abhishek Sharma,6.50 Cr,55.0 L,55.0 L,55.0 L,55.0 L,0,0,0,0,sold,India,Allrounder
-9785.0,Fabian Allen,50.0 L,50.0 L,0,0,0,0,0,0,0,sold,West Indies,Allrounder
-10267.0,Basil Thampi,30.0 L,95.0 L,95.0 L,95.0 L,95.0 L,85.0 L,0,0,0,sold,India,Bowler
-1807.0,Shreevats Goswami,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,0,0,0,0,unauctioned,India,WK-Batter
-1828.0,Siddarth Kaul,3.80 Cr,3.80 Cr,3.80 Cr,3.80 Cr,10.0 L,10.0 L,10.0 L,45.0 L,0,sold,India,Bowler
-7906.0,Shahbaz Nadeem,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,85.0 L,85.0 L,85.0 L,85.0 L,0,sold,India,Bowler
-1836.0,Manish Pandey,4.60 Cr,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,1.70 Cr,1.70 Cr,1.70 Cr,1.70 Cr,sold,India,Batter
-10738.0,Rashid Khan,15.0 Cr,9.0 Cr,9.0 Cr,9.0 Cr,9.0 Cr,4.0 Cr,0,0,0,drafted,Afghanistan,Bowler
-11631.0,Sanjay Yadav,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
-9572.0,Billy Stanlake,0,0,0,0,0,0,0,0,0,unauctioned,Australia,Bowler
-6326.0,Kane Williamson,14.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,60.0 L,60.0 L,60.0 L,0,retained,New Zealand,Batter
-10213.0,Virat Singh,1.90 Cr,1.90 Cr,0,0,0,0,0,0,0,unsold,India,Batter
-8204.0,Vijay Shankar,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,35.0 L,35.0 L,0,10.0 L,0,sold,India,Allrounder
-8356.0,Sandeep Sharma,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,85.0 L,85.0 L,85.0 L,85.0 L,0,sold,India,Bowler
-1465.0,Wriddhiman Saha,0,1.20 Cr,1.20 Cr,1.20 Cr,5.0 Cr,2.20 Cr,2.20 Cr,2.20 Cr,2.20 Cr,sold,India,WK-Batter
-13113.0,Prithvi Raj,0,0,0,0,0,0,0,0,0,unauctioned,India,Bowler
-10225.0,T Natarajan,4.0 Cr,40.0 L,40.0 L,40.0 L,40.0 L,3.0 Cr,0,0,0,sold,India,Bowler
-3007.0,Mohammad Nabi,0,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,30.0 L,0,0,0,sold,Afghanistan,Allrounder
-8313.0,Jason Holder,8.75 Cr,75.0 L,75.0 L,0,0,0,70.0 L,0,75.0 L,sold,West Indies,Allrounder
-12089.0,Priyam Garg,20.0 L,1.90 Cr,1.90 Cr,0,0,0,0,0,0,sold,India,Batter
-6507.0,Jonny Bairstow,6.75 Cr,2.20 Cr,2.20 Cr,2.20 Cr,0,0,0,0,0,sold,England,WK-Batter
-10952.0,Khaleel Ahmed,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,10.0 L,10.0 L,0,0,0,sold,India,Bowler
-14628.0,Abdul Samad,4.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,retained,India,Allrounder
-1448.0,Cheteshwar Pujara,50.0 L,0,0,0,0,0,0,1.90 Cr,0,unsold,India,Batter
-9244.0,Lukman Hussain Meriwala,20.0 L,0,0,0,0,0,0,0,0,unauctioned,India,Bowler
-7990.0,Sam Billings,0,2.0 Cr,0,1.0 Cr,1.0 Cr,30.0 L,30.0 L,0,0,sold,England,WK-Batter
-11893.0,Vishnu Vinod,0,20.0 L,0,0,0,0,0,0,0,sold,India,WK-Batter
-9443.0,Tim Seifert,50.0 L,50.0 L,0,0,0,0,0,0,0,sold,New Zealand,WK-Batter
-544.0,Shakib al Hasan,0,3.20 Cr,0,2.0 Cr,2.0 Cr,2.80 Cr,2.80 Cr,2.80 Cr,2.80 Cr,unsold,Bangladesh,Allrounder
-8846.0,Sheldon Jackson,60.0 L,20.0 L,0,0,0,15.0 L,15.0 L,15.0 L,0,sold,India,WK-Batter
-15861.0,Vaibhav Arora,20.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
-8118.0,Ben Cutting,75.0 L,0,2.20 Cr,2.20 Cr,50.0 L,50.0 L,80.0 L,80.0 L,0,unsold,Australia,Allrounder
-10917.0,Venkatesh Iyer,8.0 Cr,20.0 L,0,0,0,0,0,0,0,retained,India,Allrounder
-7625.0,Adam Milne,3.20 Cr,75.0 L,0,75.0 L,70.0 L,70.0 L,70.0 L,0,0,sold,New Zealand,Bowler
-14565.0,Marco Jansen,20.0 L,20.0 L,0,0,0,0,0,0,0,sold,South Africa,Allrounder
-6660.0,Dawid Malan,0,0,0,0,0,0,0,0,0,unsold,England,Batter
-10226.0,Shahrukh Khan,9.0 Cr,5.25 Cr,0,0,0,0,0,0,0,sold,India,Batter
-12226.0,Riley Meredith,0,0,0,0,0,0,0,0,0,sold,Australia,Bowler
-1437.0,Moises Henriques,4.20 Cr,1.0 Cr,1.0 Cr,0,0,1.0 Cr,1.0 Cr,1.0 Cr,0,unsold,Australia,Allrounder
-8107.0,Jalaj Saxena,30.0 L,20.0 L,20.0 L,0,0,0,10.0 L,90.0 L,0,unauctioned,India,Allrounder
-15480.0,Nathan Ellis,20.0 L,0,0,0,0,0,0,0,0,sold,Australia,Bowler
-9863.0,Mustafizur Rahim,2.0 Cr,1.0 Cr,0,0,2.20 Cr,1.40 Cr,1.40 Cr,0,0,sold,Bangladesh,Bowler
-9863.0,Mustafizur Rahim,2.0 Cr,1.0 Cr,0,0,2.20 Cr,1.40 Cr,1.40 Cr,0,0,sold,Bangladesh,Bowler
-9863.0,Mustafizur Rahman,2.0 Cr,1.0 Cr,0,0,2.20 Cr,1.40 Cr,1.40 Cr,0,0,sold,Bangladesh,Bowler
-9863.0,Mustafizur Rahman,2.0 Cr,1.0 Cr,0,0,2.20 Cr,1.40 Cr,1.40 Cr,0,0,sold,Bangladesh,Bowler
-13494.0,Chetan Sakariya,1.20 Cr,0,0,0,0,0,0,0,0,sold,India,Bowler
-10045.0,Liam Livingstone,75.0 L,0,0,0,0,0,0,0,0,sold,England,Allrounder
-13537.0,Kuldip Yadav,20.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
-10693.0,Glenn Phillips,0,0,0,0,0,0,0,0,0,sold,New Zealand,WK-Batter
-8709.0,Sachin Baby,20.0 L,0,0,20.0 L,10.0 L,10.0 L,0,0,0,unsold,India,Batter
-10636.0,Rajat Patidar,0,20.0 L,0,0,0,0,0,0,0,unsold,India,Batter
-12669.0,Suyesh Prabhudessai,20.0 L,0,0,0,0,0,0,0,0,sold,India,Batter
-12669.0,Suyesh Prabhudessai,20.0 L,0,0,0,0,0,0,0,0,sold,India,Batter
-12669.0,Suyash Prabhudessai,20.0 L,0,0,0,0,0,0,0,0,sold,India,Batter
-12669.0,Suyash Prabhudessai,20.0 L,0,0,0,0,0,0,0,0,sold,India,Batter
-13169.0,Tim David,20.0 L,0,0,0,0,0,0,0,0,sold,Singapore,Allrounder
-8393.0,Dushmantha Chameera,0,0,0,0,0,0,0,0,0,sold,Sri Lanka,Bowler
-10926.0,Wanindu Hasaranga,10.75 Cr,0,0,0,0,0,0,0,0,sold,Sri Lanka,Allrounder
-1726.0,Bhuvneshwar Kumar,4.20 Cr,8.50 Cr,8.50 Cr,8.50 Cr,8.50 Cr,4.25 Cr,4.25 Cr,4.25 Cr,4.25 Cr,sold,India,Bowler
-13866.0,Sai Sudharshan,0,0,0,0,0,0,0,0,0,sold,India,Batter
-13213.0,Rahmanullah Gurbaz,0,0,0,0,0,0,0,0,0,unsold,Afghanistan,WK-Batter
-1649.0,Matthew Wade,0,0,0,0,0,0,0,0,0,sold,Australia,WK-Batter
-14172.0,Yash Dayal,0,0,0,0,0,0,0,0,0,sold,India,Bowler
-1472.0,Pradeep Sangwan,0,0,0,0,0,0,0,0,0,sold,India,Bowler
-11220.0,Alzarri Joseph,0,0,0,0,0,0,0,0,0,sold,West Indies,Bowler
-15452.0,Noor Ahmad,30.0 L,0,0,0,0,0,0,0,0,sold,Afghanistan,Bowler
-13750.0,Dominic Drakes,0,0,0,0,0,0,0,0,0,sold,West Indies,Allrounder
-9838.0,Devon Conway,0,0,0,0,0,0,0,0,0,sold,New Zealand,Batter
-18504.0,Maheesh Theekshana,0,0,0,0,0,0,0,0,0,sold,Sri Lanka,Bowler
-16458.0,Matheesha Pathirana,0,0,0,0,0,0,0,0,0,unsold,Sri Lanka,Bowler
-13184.0,Mukesh Choudhary,0,0,0,0,0,0,0,0,0,sold,India,Bowler
-12805.0,Prashant Solanki,0,0,0,0,0,0,0,0,0,sold,India,Bowler
-11445.0,Rovman Powell,0,0,0,0,0,0,0,0,0,sold,West Indies,Batter
-6250.0,Mitchell Marsh	,6.50 Cr,0,0,0,0,0,0,0,0,sold,Australia,Allrounder
-12813.0,Abhijeet Tomar,0,0,0,0,0,0,0,0,0,sold,India,Batter
-9624.0,Baba Indrajith,0,0,0,0,0,0,0,0,0,sold,India,Batter
-1057.0,Tim Southee,0,0,1.0 Cr,1.0 Cr,2.50 Cr,2.50 Cr,1.21 Cr,1.20 Cr,0,sold,New Zealand,Bowler
-9500.0,Chamika Karunaratne,0,0,0,0,0,0,0,0,0,sold,Sri Lanka,Bowler
-8579.0,Evin Lewis,0,0,0,0,0,0,0,0,0,sold,West Indies,Batter
-8440.0,Kyle Mayers,0,0,0,0,0,0,0,0,0,sold,West Indies,Allrounder
-18738.0,Karan Sharma,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
-13907.0,Ayush Badoni,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
-14504.0,Tilak Varma,0,0,0,0,0,0,0,0,0,sold,India,Batter
-12337.0,Ramandeep Singh,0,0,0,0,0,0,0,0,0,sold,India,Batter
-20538.0,Dewald Brevis,3.0 Cr,0,0,0,0,0,0,0,0,sold,South Africa,Batter
-14190.0,Kumar Kartikeya Singh,0,0,0,0,0,0,0,0,0,unauctioned,India,Allrounder
-7860.0,Tymal Mills,0,0,0,0,0,0,0,0,0,sold,England,Bowler
-14595.0,Hrithik Shokeen,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
-11054.0,Prerak Mankad,0,0,0,0,0,0,0,0,0,sold,India,Batter
-7869.0,Bhanuka Rajapaksa,0,0,0,0,0,0,0,0,0,sold,Sri Lanka,Batter
-10214.0,Jitesh Sharma,20.0 L,0,0,0,0,0,0,0,0,sold,India,WK-Batter
-11215.0,Odean Smith,0,0,0,0,0,0,0,0,0,sold,West Indies,Bowler
-22601.0,Raj Bawa	,0,0,0,0,0,0,0,0,0,sold,India,Bowler
-8616.0,Rishi Dhawan,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
-9554.0,Rassie van der Dussen,0,0,0,0,0,0,0,0,0,sold,South Africa,Batter
-14336.0,Kuldeep Sen,0,0,0,0,0,0,0,0,0,sold,India,Bowler
-11221.0,Obed McCoy,0,0,0,0,0,0,0,0,0,sold,West Indies,Bowler
-12639.0,Tejas Baroka,0,0,0,0,0,0,0,0,0,sold,India,Bowler
-10353.0,KC Cariappa,30.0 L,20.0 L,0,0,0,80.0 L,80.0 L,2.40 Cr,0,sold,India,Bowler
-10713.0,Daryl Mitchell,0,0,0,0,0,0,0,0,0,sold,New Zealand,Allrounder
-11172.0,Finn Allen ,0,0,0,0,0,0,0,0,0,sold,New Zealand,WK-Batter
-14726.0,Akash Deep,20.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
-6592.0,David Willey,0,0,0,0,0,0,0,0,0,sold,England,Allrounder
-9582.0,Aiden Markram,0,0,0,0,0,0,0,0,0,sold,South Africa,Batter
-19027.0,Umran Malik,4.0 Cr,0,0,0,0,0,0,0,0,retained,India,Bowler
-13646.0,Romario Shepherd,0,0,0,0,0,0,0,0,0,sold,West Indies,Bowler
-8136.0,Sean Abbott,0,0,0,0,0,0,0,0,0,sold,Australia,Allrounder
+playerId,Player name,auctionStatus,country,role,2014,2015,2016,2017,2018,2019,2020,2021,2022
+265,MS Dhoni,retained,India,WK-Batter,125.0,125.0,125.0,125.0,150.0,150.0,150.0,150.0,120.0
+7836,Deepak Chahar,sold,India,Bowler,0,0.0,1.0,1.0,8.0,8.0,8.0,8.0,140.0
+11813,Ruturaj Gaikwad,retained,India,Batter,0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,60.0
+6667,Imran Tahir,unsold,South Africa,Bowler,10.0,10.0,10.0,5.0,10.0,10.0,10.0,10.0,0.0
+1851,Kedar Jadhav,unauctioned,India,Allrounder,0,20.0,20.0,20.0,20.0,78.0,78.0,78.0,20.0
+9783,Monu Kumar,unauctioned,India,Bowler,0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0
+6311,Ambati Rayudu,sold,India,WK-Batter,40.0,40.0,40.0,40.0,22.0,22.0,22.0,22.0,67.5
+10100,Mitchell Santner,sold,New Zealand,Allrounder,0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,5.0
+8683,Shardul Thakur,sold,India,Bowler,2.0,2.0,2.0,2.0,26.0,26.0,26.0,26.0,107.5
+413,Suresh Raina,unsold,India,Batter,95.0,95.0,95.0,125.0,110.0,110.0,110.0,110.0,0.0
+242,Dwayne Bravo,sold,West Indies,Allrounder,40.0,40.0,40.0,40.0,64.0,64.0,64.0,64.0,44.0
+1844,Karn Sharma,sold,India,Bowler,0,37.5,37.5,37.5,32.0,50.0,50.0,50.0,50.0
+11595,Ravisrinivasan Sai Kishore,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,30.0
+11595,Ravisrinivasan Sai Kishore,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,30.0
+11595,R Sai Kishore,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,30.0
+11595,R Sai Kishore,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,30.0
+9603,Lungi Ngidi,sold,South Africa,Bowler,0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,5.0
+11675,Narayan Jagadeesan,sold,India,WK-Batter,0,0.0,0.0,0.0,2.0,2.0,2.0,2.0,0.0
+587,Ravindra Jadeja,retained,India,Allrounder,55.0,55.0,55.0,95.0,70.0,70.0,70.0,70.0,160.0
+6258,Josh Hazlewood,sold,Australia,Bowler,0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,77.5
+7825,Faf du Plessis,sold,South Africa,Batter,47.5,47.5,47.5,40.0,16.0,16.0,16.0,16.0,70.0
+466,Piyush Chawla,unsold,India,Bowler,0,42.5,42.5,42.5,42.5,42.0,42.0,67.5,24.0
+13483,KM Asif,sold,India,Bowler,0,0.0,0.0,0.0,4.0,4.0,4.0,4.0,2.0
+9428,Shreyas Iyer,sold,India,Batter,0,26.0,26.0,26.0,70.0,70.0,70.0,70.0,122.5
+9781,Avesh Khan,sold,India,Bowler,0,0.0,0.0,1.0,7.0,7.0,7.0,7.0,100.0
+11307,Tushar Deshpande,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+10484,Praveen Dubey,sold,India,Bowler,0,0.0,0.0,3.5,3.5,0.0,0.0,0.0,2.0
+10484,Praveen Dubey,sold,India,Bowler,0,0.0,0.0,3.5,3.5,0.0,0.0,0.0,2.0
+10484,Praveen Dubey,sold,India,Bowler,0,0.0,0.0,3.5,3.5,0.0,0.0,0.0,2.0
+10484,Praveen Dubey,sold,India,Bowler,0,0.0,0.0,3.5,3.5,0.0,0.0,0.0,2.0
+13252,Lalit Yadav,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+11427,Anrich Nortje,retained,South Africa,Bowler,0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,65.0
+8175,Harshal Patel,sold,India,Bowler,4.0,4.0,4.0,4.0,2.0,2.0,2.0,2.0,107.5
+11214,Keemo Paul,unauctioned,West Indies,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1447,Ajinkya Rahane,sold,India,Batter,0,75.0,75.0,80.0,80.0,40.0,40.0,40.0,40.0
+8181,Mohit Sharma,unauctioned,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8989,Marcus Stoinis,drafted,Australia,Allrounder,0,0.0,5.5,5.5,62.0,62.0,48.0,48.0,92.0
+6534,Jason Roy,sold,England,Batter,0,0.0,0.0,10.0,15.0,0.0,0.0,20.0,20.0
+702,Ishant Sharma,unsold,India,Bowler,0,15.0,15.0,38.0,20.0,0.0,11.0,11.0,11.0
+1454,Amit Mishra,unsold,India,Bowler,47.5,35.0,35.0,35.0,40.0,40.0,40.0,40.0,0.0
+12094,Prithvi Shaw,retained,India,Batter,0,0.0,0.0,0.0,12.0,12.0,12.0,12.0,75.0
+13162,Daniel Sams,sold,Australia,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+9585,Kagiso Rabada,sold,South Africa,Bowler,0,0.0,0.0,50.0,42.0,42.0,42.0,42.0,92.5
+8808,Axar Patel,retained,India,Allrounder,7.5,7.5,7.5,7.5,125.0,50.0,50.0,50.0,90.0
+10744,Rishabh Pant,retained,India,WK-Batter,0,0.0,19.0,19.0,80.0,80.0,80.0,80.0,160.0
+11158,Sandeep Lamichhane,unsold,Nepal,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9789,Shimron Hetmyer,sold,West Indies,Batter,0,0.0,0.0,0.0,0.0,42.0,77.5,77.5,85.0
+1446,Shikhar Dhawan,sold,India,Batter,125.0,125.0,125.0,125.0,52.0,52.0,52.0,52.0,82.5
+1593,Ravichandran Ashwin,sold,India,Allrounder,75.0,75.0,75.0,75.0,76.0,76.0,76.0,76.0,50.0
+8733,KL Rahul,drafted,India,WK-Batter,10.0,10.0,10.0,0.0,110.0,110.0,110.0,110.0,170.0
+13217,Arshdeep Singh,retained,India,Bowler,0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,40.0
+9395,Sheldon Cottrell,unsold,West Indies,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8925,Krishnappa Gowtham,sold,India,Allrounder,0,0.0,0.0,0.0,20.0,62.0,62.0,62.0,92.5
+9427,Deepak Hooda,sold,India,Allrounder,0,0.0,0.0,0.0,36.0,36.0,36.0,5.0,57.5
+9429,Sarfaraz khan,sold,India,Batter,0,5.0,5.0,0.0,17.5,2.5,2.5,2.5,2.0
+7662,Glenn Maxwell,retained,Australia,Allrounder,60.0,60.0,60.0,60.0,90.0,0.0,107.5,142.5,110.0
+12071,Mujeeb Ur Rahman,unsold,Afghanistan,Bowler,0,0.0,0.0,0.0,40.0,40.0,40.0,15.0,0.0
+12779,Darshan Nalkande,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0
+9406,Nicholas Pooran,sold,West Indies,WK-Batter,0,0.0,0.0,3.0,0.0,42.0,42.0,42.0,107.5
+14254,Prabhsimran Singh,sold,India,WK-Batter,0,0.0,0.0,0.0,0.0,48.0,48.0,5.5,6.0
+10357,Jagadeesha Suchith,sold,India,Bowler,0,1.0,1.0,1.0,0.0,2.0,2.0,3.0,2.0
+14659,Ravi Bishnoi,drafted,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,40.0
+11404,Ishan Porel,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.5
+8983,James Neesham,sold,New Zealand,Allrounder,0,10.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0
+8257,Karun Nair,sold,India,Batter,0,7.5,7.5,40.0,40.0,56.0,56.0,56.0,5.0
+7909,Mohammed Shami,sold,India,Bowler,42.5,42.5,42.5,0.0,30.0,48.0,48.0,48.0,62.5
+6319,Mandeep Singh,sold,India,Batter,0,0.0,0.0,0.0,0.0,14.0,14.0,14.0,14.0
+6532,Chris Jordan,sold,England,Allrounder,0,0.0,0.0,0.0,5.0,10.0,0.0,30.0,30.0
+14452,Harpreet Brar,sold,India,Bowler,0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,38.0
+8796,Murugan Ashwin,sold,India,Bowler,0,0.0,45.0,10.0,22.0,2.0,2.0,2.0,16.0
+2195,Mayank Agarwal,retained,India,Batter,16.0,16.0,16.0,16.0,10.0,10.0,10.0,10.0,120.0
+624,Eoin Morgan,unsold,England,Batter,0,0.0,15.0,15.0,20.0,0.0,0.0,52.5,52.5
+8095,Pat Cummins,sold,Australia,Bowler,10.0,10.0,0.0,45.0,54.0,0.0,155.0,155.0,72.5
+10162,Chris Green,unauctioned,Australia,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8292,Kuldeep Yadav,sold,India,Bowler,4.0,4.0,4.0,4.0,58.0,58.0,58.0,58.0,20.0
+12092,Kamlesh Nagarkoti,sold,India,Bowler,0,0.0,0.0,0.0,32.0,32.0,32.0,32.0,11.0
+2276,Sunil Narine,retained,West Indies,Allrounder,95.0,95.0,95.0,95.0,125.0,125.0,125.0,125.0,60.0
+9204,Nitish Rana,sold,India,Allrounder,0,1.0,1.0,1.0,34.0,34.0,34.0,34.0,80.0
+8944,Sandeep Warrier,unsold,India,Bowler,0,1.0,1.0,0.0,0.0,0.0,2.0,2.0,2.0
+11808,Shubman Gill,drafted,India,Batter,0,0.0,0.0,0.0,18.0,18.0,18.0,18.0,80.0
+10896,Rinku Singh,sold,India,Batter,0,0.0,0.0,0.0,1.0,8.0,8.0,8.0,8.0
+12926,Varun Chakravarthy,retained,India,Bowler,0,0.0,0.0,0.0,0.0,84.0,40.0,40.0,80.0
+11450,Ali Khan,unauctioned,United States,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9012,Rahul Tripathi,sold,India,Batter,0,0.0,0.0,1.0,34.0,34.0,6.0,6.0,85.0
+12345,Shivam Mavi,sold,India,Bowler,0,0.0,0.0,0.0,30.0,30.0,30.0,30.0,72.5
+7736,Andre Russell,retained,West Indies,Allrounder,6.0,6.0,6.0,0.0,85.0,85.0,85.0,85.0,120.0
+10551,Prasidh Krishna,sold,India,Bowler,0,0.0,0.0,0.0,2.0,2.0,2.0,2.0,100.0
+9295,Nikhil Naik,unauctioned,India,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+145,Dinesh Karthik,sold,India,WK-Batter,125.0,105.0,23.0,23.0,74.0,74.0,74.0,74.0,55.0
+10692,Lockie Ferguson,sold,New Zealand,Bowler,0,0.0,0.0,5.0,0.0,16.0,16.0,16.0,100.0
+576,Rohit Sharma,retained,India,Batter,125.0,125.0,125.0,125.0,150.0,150.0,150.0,150.0,160.0
+8117,"
+Trent Boult",sold,New Zealand,Bowler,0,38.0,38.0,50.0,22.0,22.0,22.0,22.0,80.0
+12087,Rahul Chahar,sold,India,Bowler,0,0.0,0.0,1.0,19.0,19.0,19.0,19.0,52.5
+8520,Quinton de Kock,sold,South Africa,WK-Batter,35.0,35.0,35.0,35.0,28.0,28.0,28.0,28.0,67.5
+10276,Ishan Kishan,sold,India,WK-Batter,0,0.0,3.5,3.5,62.0,62.0,62.0,62.0,152.5
+7752,Chris Lynn,unauctioned,Australia,Batter,0,13.0,13.0,13.0,13.0,96.0,96.0,20.0,20.0
+9647,Hardik Pandya,drafted,India,Allrounder,0,1.0,1.0,1.0,110.0,110.0,110.0,110.0,150.0
+657,Kieron Pollard,retained,West Indies,Allrounder,75.0,75.0,75.0,75.0,54.0,54.0,54.0,54.0,60.0
+12344,Anukul Roy,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0
+6315,Aditya Tare,unauctioned,India,WK-Batter,0,16.0,16.0,2.5,2.5,2.0,2.0,2.0,2.0
+8182,Jayant Yadav,sold,India,Allrounder,0,1.0,1.0,1.0,1.0,5.0,5.0,5.0,5.0
+7915,Suryakumar Yadav,retained,India,Batter,7.0,7.0,7.0,7.0,32.0,32.0,32.0,32.0,80.0
+1601,Saurabh Tiwary,unsold,India,Batter,0,7.0,7.0,7.0,3.0,5.0,0.0,5.0,5.0
+13748,Sherfane Rutherford,sold,West Indies,Allrounder,0,0.0,0.0,0.0,0.0,20.0,20.0,20.0,0.0
+11311,Krunal Pandya,sold,India,Allrounder,0,0.0,20.0,20.0,88.0,88.0,88.0,88.0,82.5
+1451,Dhawal Kulkarni,unsold,India,Bowler,0,11.0,11.0,23.0,23.0,7.5,7.5,7.5,7.5
+9311,Jasprit Bumrah,retained,India,Bowler,12.0,12.0,12.0,12.0,70.0,70.0,70.0,70.0,120.0
+10947,Anmolpreet Singh,sold,India,Batter,0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,0.0
+2250,Steven Smith,unsold,Australia,Batter,40.0,40.0,40.0,40.0,125.0,125.0,125.0,22.0,0.0
+14696,Akash Singh,unsold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+11540,Jofra Archer,sold,England,Bowler,0,0.0,0.0,0.0,0.0,72.0,72.0,72.0,72.0
+13940,Yashasvi Jaiswal,retained,India,Batter,0,0.0,0.0,0.0,0.0,0.0,24.0,24.0,40.0
+13136,Kartik Tyagi,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,40.0
+12627,Mayank Markande,sold,India,Bowler,0,0.0,0.0,0.0,0.0,2.0,2.0,20.0,20.0
+12305,Riyan Parag,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,38.0
+8271,Sanju Samson,retained,India,WK-Batter,40.0,40.0,42.0,42.0,80.0,80.0,80.0,80.0,140.0
+11442,Oshane Thomas,unauctioned,West Indies,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0
+6327,"
+Jaydev Unadkat",sold,India,Bowler,0,28.0,11.0,16.0,3.0,115.0,84.0,30.0,30.0
+8358,Manan Vohra,sold,India,Batter,0,40.0,40.0,40.0,40.0,11.0,2.0,2.0,2.0
+527,Robin Uthappa,sold,India,Batter,50.0,50.0,50.0,50.0,64.0,64.0,30.0,30.0,20.0
+9617,Andrew Tye,unsold,Australia,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9693,Rahul Tewatia,sold,India,Allrounder,1.0,1.0,0.0,2.5,30.0,30.0,30.0,30.0,90.0
+10919,Shashank Singh,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8924,Ankit Rajpoot,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+6349,David Miller,sold,South Africa,Batter,125.0,125.0,125.0,125.0,30.0,30.0,7.5,7.5,0.0
+10954,Mahipal Lomror,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0
+9746,Shreyas Gopal,sold,India,Bowler,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0,7.5
+2258,Jos Buttler,retained,England,WK-Batter,0,0.0,38.0,38.0,44.0,44.0,44.0,44.0,100.0
+13135,Anuj Rawat,sold,India,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,34.0
+6293,Varun Aaron,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1413,Virat Kohli,retained,India,Batter,125.0,125.0,125.0,125.0,170.0,170.0,170.0,170.0,150.0
+7910,Yuzvendra Chahal,sold,India,Bowler,1.0,1.0,1.0,1.0,60.0,60.0,60.0,60.0,65.0
+1643,Aaron Finch,unsold,Australia,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10808,Mohammed Siraj,retained,India,Bowler,0,0.0,0.0,26.0,26.0,26.0,26.0,26.0,70.0
+8281,Pawan Negi,unsold,India,Allrounder,0,1.0,1.0,85.0,10.0,10.0,10.0,10.0,5.0
+9715,Navdeep Saini,sold,India,Bowler,0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,30.0
+10945,Washington Sundar,sold,India,Allrounder,0,0.0,0.0,0.0,32.0,32.0,32.0,32.0,87.5
+8642,Adam Zampa,unsold,Australia,Bowler,0,0.0,3.0,3.0,0.0,0.0,15.0,15.0,0.0
+1858,Umesh Yadav,sold,India,Bowler,26.0,26.0,26.0,26.0,42.0,42.0,42.0,10.0,0.0
+1920,Isuru Udana,unauctioned,Sri Lanka,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14606,Shahbaz Ahmed,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,24.0
+13172,Josh Philippe,unauctioned,Australia,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+13088,Devdutt Padikkal,sold,India,Batter,0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,77.5
+8298,Gurkeerat Singh Mann,sold,India,Allrounder,0,13.0,13.0,13.0,13.0,7.5,5.0,5.0,0.0
+11195,Shivam Dube,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,50.0,50.0,44.0
+6692,Moeen Ali,retained,England,Allrounder,0,0.0,0.0,0.0,17.0,17.0,17.0,70.0,80.0
+1739,David Warner,sold,Australia,Batter,55.0,55.0,55.0,55.0,0.0,125.0,125.0,125.0,62.5
+12086,Abhishek Sharma,sold,India,Allrounder,0,0.0,0.0,0.0,5.5,5.5,5.5,5.5,65.0
+9785,Fabian Allen,sold,West Indies,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0
+10267,Basil Thampi,sold,India,Bowler,0,0.0,0.0,8.5,9.5,9.5,9.5,9.5,3.0
+1807,Shreevats Goswami,unauctioned,India,WK-Batter,0,0.0,0.0,0.0,10.0,10.0,10.0,10.0,10.0
+1828,Siddarth Kaul,sold,India,Bowler,0,4.5,1.0,1.0,1.0,38.0,38.0,38.0,38.0
+7906,Shahbaz Nadeem,sold,India,Bowler,0,8.5,8.5,8.5,8.5,32.0,32.0,32.0,32.0
+1836,Manish Pandey,sold,India,Batter,17.0,17.0,17.0,17.0,110.0,110.0,110.0,110.0,46.0
+10738,Rashid Khan,drafted,Afghanistan,Bowler,0,0.0,0.0,40.0,90.0,90.0,90.0,90.0,150.0
+11631,Sanjay Yadav,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9572,Billy Stanlake,unauctioned,Australia,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6326,Kane Williamson,retained,New Zealand,Batter,0,6.0,6.0,6.0,30.0,30.0,30.0,30.0,140.0
+10213,Virat Singh,unsold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,19.0
+8204,Vijay Shankar,sold,India,Allrounder,0,1.0,0.0,3.5,3.5,32.0,32.0,32.0,32.0
+8356,Sandeep Sharma,sold,India,Bowler,0,8.5,8.5,8.5,8.5,30.0,30.0,30.0,30.0
+1465,Wriddhiman Saha,sold,India,WK-Batter,22.0,22.0,22.0,22.0,50.0,12.0,12.0,12.0,0.0
+13113,Prithvi Raj,unauctioned,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10225,T Natarajan,sold,India,Bowler,0,0.0,0.0,30.0,4.0,4.0,4.0,4.0,40.0
+3007,Mohammad Nabi,sold,Afghanistan,Allrounder,0,0.0,0.0,3.0,10.0,10.0,10.0,10.0,0.0
+8313,Jason Holder,sold,West Indies,Allrounder,7.5,0.0,7.0,0.0,0.0,0.0,7.5,7.5,87.5
+12089,Priyam Garg,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,19.0,19.0,2.0
+6507,Jonny Bairstow,sold,England,WK-Batter,0,0.0,0.0,0.0,0.0,22.0,22.0,22.0,67.5
+10952,Khaleel Ahmed,sold,India,Bowler,0,0.0,0.0,1.0,1.0,30.0,30.0,30.0,30.0
+14628,Abdul Samad,retained,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,40.0
+1448,Cheteshwar Pujara,unsold,India,Batter,0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+9244,Lukman Hussain Meriwala,unauctioned,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+7990,Sam Billings,sold,England,WK-Batter,0,0.0,3.0,3.0,10.0,10.0,0.0,20.0,0.0
+11893,Vishnu Vinod,sold,India,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+9443,Tim Seifert,sold,New Zealand,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0
+544,Shakib al Hasan,unsold,Bangladesh,Allrounder,28.0,28.0,28.0,28.0,20.0,20.0,0.0,32.0,0.0
+8846,Sheldon Jackson,sold,India,WK-Batter,0,1.5,1.5,1.5,0.0,0.0,0.0,2.0,6.0
+15861,Vaibhav Arora,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+8118,Ben Cutting,unsold,Australia,Allrounder,0,8.0,8.0,5.0,5.0,22.0,22.0,0.0,7.5
+10917,Venkatesh Iyer,retained,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,80.0
+7625,Adam Milne,sold,New Zealand,Bowler,0,0.0,7.0,7.0,7.0,7.5,0.0,7.5,32.0
+14565,Marco Jansen,sold,South Africa,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+6660,Dawid Malan,unsold,England,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10226,Shahrukh Khan,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,52.5,90.0
+12226,Riley Meredith,sold,Australia,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1437,Moises Henriques,unsold,Australia,Allrounder,0,10.0,10.0,10.0,0.0,0.0,10.0,10.0,42.0
+8107,Jalaj Saxena,unauctioned,India,Allrounder,0,9.0,1.0,0.0,0.0,0.0,2.0,2.0,3.0
+15480,Nathan Ellis,sold,Australia,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+9863,Mustafizur Rahim,sold,Bangladesh,Bowler,0,0.0,14.0,14.0,22.0,0.0,0.0,10.0,20.0
+9863,Mustafizur Rahim,sold,Bangladesh,Bowler,0,0.0,14.0,14.0,22.0,0.0,0.0,10.0,20.0
+9863,Mustafizur Rahman,sold,Bangladesh,Bowler,0,0.0,14.0,14.0,22.0,0.0,0.0,10.0,20.0
+9863,Mustafizur Rahman,sold,Bangladesh,Bowler,0,0.0,14.0,14.0,22.0,0.0,0.0,10.0,20.0
+13494,Chetan Sakariya,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
+10045,Liam Livingstone,sold,England,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5
+13537,Kuldip Yadav,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+10693,Glenn Phillips,sold,New Zealand,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8709,Sachin Baby,unsold,India,Batter,0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,2.0
+10636,Rajat Patidar,unsold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+12669,Suyesh Prabhudessai,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+12669,Suyesh Prabhudessai,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+12669,Suyash Prabhudessai,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+12669,Suyash Prabhudessai,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+13169,Tim David,sold,Singapore,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+8393,Dushmantha Chameera,sold,Sri Lanka,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10926,Wanindu Hasaranga,sold,Sri Lanka,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,107.5
+1726,Bhuvneshwar Kumar,sold,India,Bowler,42.5,42.5,42.5,42.5,85.0,85.0,85.0,85.0,42.0
+13866,Sai Sudharshan,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13213,Rahmanullah Gurbaz,unsold,Afghanistan,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1649,Matthew Wade,sold,Australia,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14172,Yash Dayal,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1472,Pradeep Sangwan,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11220,Alzarri Joseph,sold,West Indies,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15452,Noor Ahmad,sold,Afghanistan,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+13750,Dominic Drakes,sold,West Indies,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9838,Devon Conway,sold,New Zealand,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18504,Maheesh Theekshana,sold,Sri Lanka,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16458,Matheesha Pathirana,unsold,Sri Lanka,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13184,Mukesh Choudhary,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12805,Prashant Solanki,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11445,Rovman Powell,sold,West Indies,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6250,Mitchell Marsh	,sold,Australia,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0
+12813,Abhijeet Tomar,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9624,Baba Indrajith,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1057,Tim Southee,sold,New Zealand,Bowler,0,12.0,12.1,25.0,25.0,10.0,10.0,0.0,0.0
+9500,Chamika Karunaratne,sold,Sri Lanka,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8579,Evin Lewis,sold,West Indies,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8440,Kyle Mayers,sold,West Indies,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18738,Karan Sharma,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13907,Ayush Badoni,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14504,Tilak Varma,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12337,Ramandeep Singh,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20538,Dewald Brevis,sold,South Africa,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0
+14190,Kumar Kartikeya Singh,unauctioned,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7860,Tymal Mills,sold,England,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14595,Hrithik Shokeen,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11054,Prerak Mankad,sold,India,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7869,Bhanuka Rajapaksa,sold,Sri Lanka,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10214,Jitesh Sharma,sold,India,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+11215,Odean Smith,sold,West Indies,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22601,Raj Bawa	,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8616,Rishi Dhawan,sold,India,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9554,Rassie van der Dussen,sold,South Africa,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14336,Kuldeep Sen,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11221,Obed McCoy,sold,West Indies,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12639,Tejas Baroka,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10353,KC Cariappa,sold,India,Bowler,0,24.0,8.0,8.0,0.0,0.0,0.0,2.0,3.0
+10713,Daryl Mitchell,sold,New Zealand,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11172,Finn Allen ,sold,New Zealand,WK-Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14726,Akash Deep,sold,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+6592,David Willey,sold,England,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9582,Aiden Markram,sold,South Africa,Batter,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19027,Umran Malik,retained,India,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0
+13646,Romario Shepherd,sold,West Indies,Bowler,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8136,Sean Abbott,sold,Australia,Allrounder,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
