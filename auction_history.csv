@@ -1,247 +1,257 @@
-playerId,2022,2021,2020,2019,2018,2017,2016,2015,2014,auctionStatus,country,role
-265,12.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,retained,India,WK-Batter
-7836,14.0 Cr,80.0 L,80.0 L,80.0 L,80.0 L,10.0 L,10.0 L,--,--,sold,India,Bowler
-11813,6.0 Cr,20.0 L,20.0 L,20.0 L,--,--,--,--,--,retained,India,Batter
-6667,--,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,50.0 L,1.0 Cr,1.0 Cr,1.0 Cr,unsold,South Africa,Bowler
-1851,2.0 Cr,7.80 Cr,7.80 Cr,7.80 Cr,2.0 Cr,2.0 Cr,2.0 Cr,2.0 Cr,0,unauctioned,India,Allrounder
-9783,20.0 L,20.0 L,20.0 L,20.0 L,--,--,--,--,0,unauctioned,India,Bowler
-6311,6.75 Cr,2.20 Cr,2.20 Cr,2.20 Cr,2.20 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,sold,India,WK-Batter
-10100,50.0 L,50.0 L,50.0 L,50.0 L,--,--,--,--,0,sold,New Zealand,Allrounder
-8683,10.75 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,20.0 L,20.0 L,20.0 L,20.0 L,sold,India,Bowler
-413,--,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,12.50 Cr,9.50 Cr,9.50 Cr,9.50 Cr,unsold,India,Batter
-242,4.40 Cr,6.40 Cr,6.40 Cr,6.40 Cr,6.40 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,sold,West Indies,Allrounder
-1844,5.0 Cr,5.0 Cr,5.0 Cr,5.0 Cr,3.20 Cr,3.75 Cr,3.75 Cr,3.75 Cr,0,sold,India,Bowler
-11595,3.0 Cr,20.0 L,20.0 L,--,--,--,--,--,--,sold,India,Bowler
-9603,50.0 L,50.0 L,50.0 L,50.0 L,--,--,--,--,0,sold,South Africa,Bowler
-11675,--,20.0 L,20.0 L,20.0 L,20.0 L,--,--,--,--,sold,India,WK-Batter
-587,16.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,9.50 Cr,5.50 Cr,5.50 Cr,5.50 Cr,retained,India,Allrounder
-6258,7.75 Cr,2.0 Cr,2.0 Cr,--,--,--,--,--,--,sold,Australia,Bowler
-7825,7.0 Cr,1.60 Cr,1.60 Cr,1.60 Cr,1.60 Cr,4.0 Cr,4.75 Cr,4.75 Cr,4.75 Cr,sold,South Africa,Batter
-466,2.40 Cr,6.75 Cr,4.20 Cr,4.20 Cr,4.25 Cr,4.25 Cr,4.25 Cr,4.25 Cr,0,unsold,India,Bowler
-13483,20.0 L,40.0 L,40.0 L,40.0 L,40.0 L,--,--,--,--,sold,India,Bowler
-9428,12.25 Cr,7.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,2.60 Cr,2.60 Cr,2.60 Cr,--,sold,India,Batter
-9781,10.0 Cr,70.0 L,70.0 L,70.0 L,70.0 L,10.0 L,--,--,--,sold,India,Bowler
-11307,20.0 L,--,--,--,--,--,--,--,--,sold,India,Bowler
-10484,20.0 L,--,--,--,35.0 L,35.0 L,--,--,0,sold,India,Bowler
-13252,20.0 L,20.0 L,--,--,--,--,--,--,0,sold,India,Allrounder
-11427,6.50 Cr,50.0 L,50.0 L,--,--,--,--,--,--,retained,South Africa,Bowler
-8175,10.75 Cr,20.0 L,20.0 L,20.0 L,20.0 L,40.0 L,40.0 L,40.0 L,40.0 L,sold,India,Bowler
-11214,--,--,--,--,--,--,--,--,0,unauctioned,West Indies,Allrounder
-1447,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,8.0 Cr,8.0 Cr,7.50 Cr,7.50 Cr,0,sold,India,Batter
-8181,--,--,--,--,--,--,--,--,0,unauctioned,India,Bowler
-8989,9.20 Cr,4.80 Cr,4.80 Cr,6.20 Cr,6.20 Cr,55.0 L,55.0 L,--,--,drafted,Australia,Allrounder
-6534,2.0 Cr,2.0 Cr,--,--,1.50 Cr,1.0 Cr,--,--,--,sold,England,Batter
-702,1.10 Cr,1.10 Cr,1.10 Cr,--,2.0 Cr,3.80 Cr,1.50 Cr,1.50 Cr,0,unsold,India,Bowler
-1454,--,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,3.50 Cr,3.50 Cr,3.50 Cr,4.75 Cr,unsold,India,Bowler
-12094,7.50 Cr,1.20 Cr,1.20 Cr,1.20 Cr,1.20 Cr,--,--,--,--,retained,India,Batter
-13162,20.0 L,20.0 L,--,--,--,--,--,--,0,sold,Australia,Allrounder
-9585,9.25 Cr,4.20 Cr,4.20 Cr,4.20 Cr,4.20 Cr,5.0 Cr,--,--,--,sold,South Africa,Bowler
-8808,9.0 Cr,5.0 Cr,5.0 Cr,5.0 Cr,12.50 Cr,75.0 L,75.0 L,75.0 L,75.0 L,retained,India,Allrounder
-10744,16.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,1.90 Cr,1.90 Cr,--,--,retained,India,WK-Batter
-11158,--,--,--,--,--,--,--,--,--,unsold,Nepal,Bowler
-9789,8.50 Cr,7.75 Cr,7.75 Cr,4.20 Cr,--,--,--,--,--,sold,West Indies,Batter
-1446,8.25 Cr,5.20 Cr,5.20 Cr,5.20 Cr,5.20 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,sold,India,Batter
-1593,5.0 Cr,7.60 Cr,7.60 Cr,7.60 Cr,7.60 Cr,7.50 Cr,7.50 Cr,7.50 Cr,7.50 Cr,sold,India,Allrounder
-8733,17.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,--,1.0 Cr,1.0 Cr,1.0 Cr,drafted,India,WK-Batter
-13217,4.0 Cr,20.0 L,20.0 L,20.0 L,--,--,--,--,--,retained,India,Bowler
-9395,--,--,--,--,--,--,--,--,0,unsold,West Indies,Bowler
-8925,9.25 Cr,6.20 Cr,6.20 Cr,6.20 Cr,2.0 Cr,--,--,--,0,sold,India,Allrounder
-9427,5.75 Cr,50.0 L,3.60 Cr,3.60 Cr,3.60 Cr,--,--,--,--,sold,India,Allrounder
-9429,20.0 L,25.0 L,25.0 L,25.0 L,1.75 Cr,--,50.0 L,50.0 L,--,sold,India,Batter
-7662,11.0 Cr,14.25 Cr,10.75 Cr,--,9.0 Cr,6.0 Cr,6.0 Cr,6.0 Cr,6.0 Cr,retained,Australia,Allrounder
-12071,--,1.50 Cr,4.0 Cr,4.0 Cr,4.0 Cr,--,--,--,--,unsold,Afghanistan,Bowler
-12779,30.0 L,30.0 L,30.0 L,--,--,--,--,--,0,sold,India,Bowler
-9406,10.75 Cr,4.20 Cr,4.20 Cr,4.20 Cr,--,30.0 L,--,--,--,sold,West Indies,WK-Batter
-14254,60.0 L,55.0 L,4.80 Cr,4.80 Cr,--,--,--,--,--,sold,India,WK-Batter
-10357,20.0 L,30.0 L,20.0 L,20.0 L,--,10.0 L,10.0 L,10.0 L,--,sold,India,Bowler
-14659,4.0 Cr,2.0 Cr,2.0 Cr,--,--,--,--,--,--,drafted,India,Bowler
-11404,25.0 L,20.0 L,20.0 L,--,--,--,--,--,--,sold,India,Bowler
-8983,50.0 L,50.0 L,--,--,--,--,--,1.0 Cr,0,sold,New Zealand,Allrounder
-8257,50.0 L,5.60 Cr,5.60 Cr,5.60 Cr,4.0 Cr,4.0 Cr,75.0 L,75.0 L,0,sold,India,Batter
-7909,6.25 Cr,4.80 Cr,4.80 Cr,4.80 Cr,3.0 Cr,--,4.25 Cr,4.25 Cr,4.25 Cr,sold,India,Bowler
-6319,1.40 Cr,1.40 Cr,1.40 Cr,1.40 Cr,--,--,--,--,0,sold,India,Batter
-6532,3.0 Cr,3.0 Cr,--,1.0 Cr,50.0 L,--,--,--,0,sold,England,Allrounder
-14452,3.80 Cr,20.0 L,20.0 L,20.0 L,--,--,--,--,--,sold,India,Bowler
-8796,1.60 Cr,20.0 L,20.0 L,20.0 L,2.20 Cr,1.0 Cr,4.50 Cr,--,--,sold,India,Bowler
-2195,12.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,1.60 Cr,1.60 Cr,1.60 Cr,1.60 Cr,retained,India,Batter
-624,5.25 Cr,5.25 Cr,--,--,2.0 Cr,1.50 Cr,1.50 Cr,--,0,unsold,England,Batter
-8095,7.25 Cr,15.50 Cr,15.50 Cr,--,5.40 Cr,4.50 Cr,--,1.0 Cr,1.0 Cr,sold,Australia,Bowler
-10162,--,--,--,--,--,--,--,--,0,unauctioned,Australia,Allrounder
-8292,2.0 Cr,5.80 Cr,5.80 Cr,5.80 Cr,5.80 Cr,40.0 L,40.0 L,40.0 L,40.0 L,sold,India,Bowler
-12092,1.10 Cr,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,--,--,--,--,sold,India,Bowler
-2276,6.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,9.50 Cr,9.50 Cr,9.50 Cr,9.50 Cr,retained,West Indies,Allrounder
-9204,8.0 Cr,3.40 Cr,3.40 Cr,3.40 Cr,3.40 Cr,10.0 L,10.0 L,10.0 L,--,sold,India,Allrounder
-8944,20.0 L,20.0 L,20.0 L,--,--,--,10.0 L,10.0 L,0,unsold,India,Bowler
-11808,8.0 Cr,1.80 Cr,1.80 Cr,1.80 Cr,1.80 Cr,--,--,--,--,drafted,India,Batter
-10896,80.0 L,80.0 L,80.0 L,80.0 L,10.0 L,--,--,--,0,sold,India,Batter
-12926,8.0 Cr,4.0 Cr,4.0 Cr,8.40 Cr,--,--,--,--,--,retained,India,Bowler
-11450,--,--,--,--,--,--,--,--,0,unauctioned,United States,Bowler
-9012,8.50 Cr,60.0 L,60.0 L,3.40 Cr,3.40 Cr,10.0 L,--,--,--,sold,India,Batter
-12345,7.25 Cr,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,--,--,--,--,sold,India,Bowler
-7736,12.0 Cr,8.50 Cr,8.50 Cr,8.50 Cr,8.50 Cr,--,60.0 L,60.0 L,60.0 L,retained,West Indies,Allrounder
-10551,10.0 Cr,20.0 L,20.0 L,20.0 L,20.0 L,--,--,--,--,sold,India,Bowler
-9295,--,--,--,--,--,--,--,--,0,unauctioned,India,WK-Batter
-145,5.50 Cr,7.40 Cr,7.40 Cr,7.40 Cr,7.40 Cr,2.30 Cr,2.30 Cr,10.50 Cr,12.50 Cr,sold,India,WK-Batter
-10692,10.0 Cr,1.60 Cr,1.60 Cr,1.60 Cr,--,50.0 L,--,--,--,sold,New Zealand,Bowler
-576,16.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,retained,India,Batter
-8117,8.0 Cr,2.20 Cr,2.20 Cr,2.20 Cr,2.20 Cr,5.0 Cr,3.80 Cr,3.80 Cr,--,sold,New Zealand,Bowler
-12087,5.25 Cr,1.90 Cr,1.90 Cr,1.90 Cr,1.90 Cr,10.0 L,--,--,--,sold,India,Bowler
-8520,6.75 Cr,2.80 Cr,2.80 Cr,2.80 Cr,2.80 Cr,3.50 Cr,3.50 Cr,3.50 Cr,3.50 Cr,sold,South Africa,WK-Batter
-10276,15.25 Cr,6.20 Cr,6.20 Cr,6.20 Cr,6.20 Cr,35.0 L,35.0 L,--,--,sold,India,WK-Batter
-7752,2.0 Cr,2.0 Cr,9.60 Cr,9.60 Cr,1.30 Cr,1.30 Cr,1.30 Cr,1.30 Cr,0,unauctioned,Australia,Batter
-9647,15.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,10.0 L,10.0 L,10.0 L,--,drafted,India,Allrounder
-657,6.0 Cr,5.40 Cr,5.40 Cr,5.40 Cr,5.40 Cr,7.50 Cr,7.50 Cr,7.50 Cr,7.50 Cr,retained,West Indies,Allrounder
-12344,20.0 L,20.0 L,20.0 L,20.0 L,--,--,--,--,0,sold,India,Allrounder
-6315,20.0 L,20.0 L,20.0 L,20.0 L,25.0 L,25.0 L,1.6 Cr,1.60 Cr,0,unauctioned,India,WK-Batter
-8182,50.0 L,50.0 L,50.0 L,50.0 L,10.0 L,10.0 L,10.0 L,10.0 L,0,sold,India,Allrounder
-7915,8.0 Cr,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,70.0 L,70.0 L,70.0 L,70.0 L,retained,India,Batter
-1601,50.0 L,50.0 L,--,50.0 L,30.0 L,70.0 L,70.0 L,70.0 L,0,unsold,India,Batter
-13748,--,2.0 Cr,2.0 Cr,2.0 Cr,--,--,--,--,0,sold,West Indies,Allrounder
-11311,8.25 Cr,8.80 Cr,8.80 Cr,8.80 Cr,8.80 Cr,2.0 Cr,2.0 Cr,--,--,sold,India,Allrounder
-1451,75.0 L,75.0 L,75.0 L,75.0 L,2.30 Cr,2.30 Cr,1.10 Cr,1.10 Cr,0,unsold,India,Bowler
-9311,12.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,1.20 Cr,1.20 Cr,1.20 Cr,1.20 Cr,retained,India,Bowler
-10947,--,80.0 L,80.0 L,80.0 L,--,--,--,--,--,sold,India,Batter
-2250,--,2.20 Cr,12.50 Cr,12.50 Cr,12.50 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,unsold,Australia,Batter
-14696,20.0 L,--,--,--,--,--,--,--,0,unsold,India,Bowler
-11540,7.20 Cr,7.20 Cr,7.20 Cr,7.20 Cr,--,--,--,--,0,sold,England,Bowler
-13940,4.0 Cr,2.40 Cr,2.40 Cr,--,--,--,--,--,--,retained,India,Batter
-13136,4.0 Cr,1.30 Cr,1.30 Cr,--,--,--,--,--,--,sold,India,Bowler
-12627,2.0 Cr,2.0 Cr,20.0 L,20.0 L,--,--,--,--,0,sold,India,Bowler
-12305,3.80 Cr,20.0 L,20.0 L,20.0 L,--,--,--,--,--,sold,India,Allrounder
-8271,14.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,4.20 Cr,4.20 Cr,4.0 Cr,4.0 Cr,retained,India,WK-Batter
-11442,--,50.0 L,--,--,--,--,--,--,0,unauctioned,West Indies,Allrounder
-6327,3.0 Cr,3.0 Cr,8.40 Cr,11.50 Cr,30.0 L,1.60 Cr,1.10 Cr,2.80 Cr,0,sold,India,Bowler
-8358,20.0 L,20.0 L,20.0 L,1.10 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,0,sold,India,Batter
-527,2.0 Cr,3.0 Cr,3.0 Cr,6.40 Cr,6.40 Cr,5.0 Cr,5.0 Cr,5.0 Cr,5.0 Cr,sold,India,Batter
-9617,--,--,--,--,--,--,--,--,0,unsold,Australia,Bowler
-9693,9.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,25.0 L,--,10.0 L,10.0 L,sold,India,Allrounder
-10919,--,--,--,--,--,--,--,--,0,sold,India,Batter
-8924,50.0 L,--,--,--,--,--,--,--,--,sold,India,Bowler
-6349,--,75.0 L,75.0 L,3.0 Cr,3.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,sold,South Africa,Batter
-10954,20.0 L,20.0 L,20.0 L,20.0 L,--,--,--,--,0,sold,India,Allrounder
-9746,75.0 L,20.0 L,20.0 L,20.0 L,20.0 L,10.0 L,10.0 L,10.0 L,10.0 L,sold,India,Bowler
-2258,10.0 Cr,4.40 Cr,4.40 Cr,4.40 Cr,4.40 Cr,3.80 Cr,3.80 Cr,--,--,retained,England,WK-Batter
-13135,3.40 Cr,80.0 L,80.0 L,--,--,--,--,--,--,sold,India,WK-Batter
-6293,--,--,--,--,--,--,--,--,0,sold,India,Bowler
-1413,15.0 Cr,17.0 Cr,17.0 Cr,17.0 Cr,17.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,retained,India,Batter
-7910,6.50 Cr,6.0 Cr,6.0 Cr,6.0 Cr,6.0 Cr,10.0 L,10.0 L,10.0 L,10.0 L,sold,India,Bowler
-1643,--,--,--,--,--,--,--,--,0,unsold,Australia,Batter
-10808,7.0 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,--,--,--,retained,India,Bowler
-8281,50.0 L,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,8.50 Cr,10.0 L,10.0 L,0,unsold,India,Allrounder
-9715,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,--,--,--,--,0,sold,India,Bowler
-10945,8.75 Cr,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,--,--,--,--,sold,India,Allrounder
-8642,--,1.50 Cr,1.50 Cr,--,--,30.0 L,30.0 L,--,--,unsold,Australia,Bowler
-1858,--,1.0 Cr,4.20 Cr,4.20 Cr,4.20 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,sold,India,Bowler
-1920,--,--,--,--,--,--,--,--,0,unauctioned,Sri Lanka,Allrounder
-14606,2.40 Cr,20.0 L,20.0 L,--,--,--,--,--,--,sold,India,Allrounder
-13172,20.0 L,20.0 L,--,--,--,--,--,--,0,unauctioned,Australia,WK-Batter
-13088,7.75 Cr,20.0 L,20.0 L,20.0 L,--,--,--,--,--,sold,India,Batter
-8298,--,50.0 L,50.0 L,75.0 L,1.30 Cr,1.30 Cr,1.30 Cr,1.30 Cr,0,sold,India,Allrounder
-11195,4.40 Cr,5.0 Cr,5.0 Cr,--,--,--,--,--,0,sold,India,Allrounder
-6692,8.0 Cr,7.0 Cr,1.70 Cr,1.70 Cr,1.70 Cr,--,--,--,--,retained,England,Allrounder
-1739,6.25 Cr,12.50 Cr,12.50 Cr,12.50 Cr,--,5.50 Cr,5.50 Cr,5.50 Cr,5.50 Cr,sold,Australia,Batter
-12086,6.50 Cr,55.0 L,55.0 L,55.0 L,55.0 L,--,--,--,--,sold,India,Allrounder
-9785,50.0 L,50.0 L,--,--,--,--,--,--,0,sold,West Indies,Allrounder
-10267,30.0 L,95.0 L,95.0 L,95.0 L,95.0 L,85.0 L,--,--,--,sold,India,Bowler
-1807,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,--,--,--,0,unauctioned,India,WK-Batter
-1828,3.80 Cr,3.80 Cr,3.80 Cr,3.80 Cr,10.0 L,10.0 L,10.0 L,45.0 L,0,sold,India,Bowler
-7906,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,85.0 L,85.0 L,85.0 L,85.0 L,0,sold,India,Bowler
-1836,4.60 Cr,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,1.70 Cr,1.70 Cr,1.70 Cr,1.70 Cr,sold,India,Batter
-10738,15.0 Cr,9.0 Cr,9.0 Cr,9.0 Cr,9.0 Cr,4.0 Cr,--,--,--,drafted,Afghanistan,Bowler
-11631,--,--,--,--,--,--,--,--,0,sold,India,Allrounder
-9572,--,--,--,--,--,--,--,--,0,unauctioned,Australia,Bowler
-6326,14.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,60.0 L,60.0 L,60.0 L,--,retained,New Zealand,Batter
-10213,1.90 Cr,1.90 Cr,--,--,--,--,--,--,0,unsold,India,Batter
-8204,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,35.0 L,35.0 L,--,10.0 L,0,sold,India,Allrounder
-8356,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,85.0 L,85.0 L,85.0 L,85.0 L,0,sold,India,Bowler
-1465,--,1.20 Cr,1.20 Cr,1.20 Cr,5.0 Cr,2.20 Cr,2.20 Cr,2.20 Cr,2.20 Cr,sold,India,WK-Batter
-13113,--,--,--,--,--,--,--,--,0,unauctioned,India,Bowler
-10225,4.0 Cr,40.0 L,40.0 L,40.0 L,40.0 L,3.0 Cr,--,--,--,sold,India,Bowler
-3007,--,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,30.0 L,--,--,--,sold,Afghanistan,Allrounder
-8313,8.75 Cr,75.0 L,75.0 L,--,--,--,70.0 L,--,75.0 L,sold,West Indies,Allrounder
-12089,20.0 L,1.90 Cr,1.90 Cr,--,--,--,--,--,--,sold,India,Batter
-6507,6.75 Cr,2.20 Cr,2.20 Cr,2.20 Cr,--,--,--,--,--,sold,England,WK-Batter
-10952,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,10.0 L,10.0 L,--,--,0,sold,India,Bowler
-14628,4.0 Cr,20.0 L,20.0 L,--,--,--,--,--,--,retained,India,Allrounder
-1448,50.0 L,--,--,--,--,--,--,1.90 Cr,0,unsold,India,Batter
-9244,20.0 L,--,--,--,--,--,--,--,0,unauctioned,India,Bowler
-7990,--,2.0 Cr,--,1.0 Cr,1.0 Cr,30.0 L,30.0 L,--,--,sold,England,WK-Batter
-10484,20.0 L,--,--,--,35.0 L,35.0 L,--,--,0,sold,India,Bowler
-11893,--,20.0 L,--,--,--,--,--,--,--,sold,India,WK-Batter
-9443,50.0 L,50.0 L,--,--,--,--,--,--,0,sold,New Zealand,WK-Batter
-544,--,3.20 Cr,--,2.0 Cr,2.0 Cr,2.80 Cr,2.80 Cr,2.80 Cr,2.80 Cr,unsold,Bangladesh,Allrounder
-8846,60.0 L,20.0 L,--,--,--,15.0 L,15.0 L,15.0 L,--,sold,India,WK-Batter
-15861,20.0 L,--,--,--,--,--,--,--,0,sold,India,Bowler
-8118,75.0 L,--,2.20 Cr,2.20 Cr,50.0 L,50.0 L,80.0 L,80.0 L,0,unsold,Australia,Allrounder
-10917,8.0 Cr,20.0 L,--,--,--,--,--,--,--,retained,India,Allrounder
-7625,3.20 Cr,75.0 L,--,75.0 L,70.0 L,70.0 L,70.0 L,--,0,sold,New Zealand,Bowler
-14565,20.0 L,20.0 L,--,--,--,--,--,--,0,sold,South Africa,Allrounder
-6660,--,--,--,--,--,--,--,--,0,unsold,England,Batter
-10226,9.0 Cr,5.25 Cr,--,--,--,--,--,--,--,sold,India,Batter
-12226,--,--,--,--,--,--,--,--,0,sold,Australia,Bowler
-1437,4.20 Cr,1.0 Cr,1.0 Cr,--,--,1.0 Cr,1.0 Cr,1.0 Cr,0,unsold,Australia,Allrounder
-8107,30.0 L,20.0 L,20.0 L,--,--,--,10.0 L,90.0 L,0,unauctioned,India,Allrounder
-15480,20.0 L,--,--,--,--,--,--,--,0,sold,Australia,Bowler
-9863,2.0 Cr,1.0 Cr,--,--,2.20 Cr,1.40 Cr,1.40 Cr,--,--,sold,Bangladesh,Bowler
-13494,1.20 Cr,--,--,--,--,--,--,--,0,sold,India,Bowler
-10045,75.0 L,--,--,--,--,--,--,--,0,sold,England,Allrounder
-13537,20.0 L,--,--,--,--,--,--,--,0,sold,India,Bowler
-10693,--,--,--,--,--,--,--,--,0,sold,New Zealand,WK-Batter
-8709,20.0 L,--,--,20.0 L,10.0 L,10.0 L,--,--,0,unsold,India,Batter
-10636,--,20.0 L,--,--,--,--,--,--,--,unsold,India,Batter
-12669,20.0 L,--,--,--,--,--,--,--,0,sold,India,Batter
-13169,20.0 L,--,--,--,--,--,--,--,0,sold,Singapore,Allrounder
-8393,--,--,--,--,--,--,--,--,0,sold,Sri Lanka,Bowler
-10926,10.75 Cr,--,--,--,--,--,--,--,--,sold,Sri Lanka,Allrounder
-1726,4.20 Cr,8.50 Cr,8.50 Cr,8.50 Cr,8.50 Cr,4.25 Cr,4.25 Cr,4.25 Cr,4.25 Cr,sold,India,Bowler
-13866,--,--,--,--,--,--,--,--,0,sold,India,Batter
-13213,--,--,--,--,--,--,--,--,0,unsold,Afghanistan,WK-Batter
-1649,--,--,--,--,--,--,--,--,--,sold,Australia,WK-Batter
-14172,--,--,--,--,--,--,--,--,0,sold,India,Bowler
-1472,--,--,--,--,--,--,--,--,0,sold,India,Bowler
-11220,--,--,--,--,--,--,--,--,0,sold,West Indies,Bowler
-11595,3.0 Cr,20.0 L,20.0 L,--,--,--,--,--,--,sold,India,Bowler
-15452,30.0 L,--,--,--,--,--,--,--,--,sold,Afghanistan,Bowler
-13750,--,--,--,--,--,--,--,--,0,sold,West Indies,Allrounder
-9838,--,--,--,--,--,--,--,--,0,sold,New Zealand,Batter
-18504,--,--,--,--,--,--,--,--,0,sold,Sri Lanka,Bowler
-16458,--,--,--,--,--,--,--,--,0,unsold,Sri Lanka,Bowler
-13184,--,--,--,--,--,--,--,--,0,sold,India,Bowler
-12805,--,--,--,--,--,--,--,--,0,sold,India,Bowler
-11445,--,--,--,--,--,--,--,--,0,sold,West Indies,Batter
-9863,2.0 Cr,1.0 Cr,--,--,2.20 Cr,1.40 Cr,1.40 Cr,--,--,sold,Bangladesh,Bowler
-6250,6.50 Cr,--,--,--,--,--,--,--,--,sold,Australia,Allrounder
-12813,--,--,--,--,--,--,--,--,0,sold,India,Batter
-9624,--,--,--,--,--,--,--,--,0,sold,India,Batter
-1057,--,--,1.0 Cr,1.0 Cr,2.50 Cr,2.50 Cr,1.21 Cr,1.20 Cr,0,sold,New Zealand,Bowler
-9500,--,--,--,--,--,--,--,--,0,sold,Sri Lanka,Bowler
-8579,--,--,--,--,--,--,--,--,0,sold,West Indies,Batter
-8440,--,--,--,--,--,--,--,--,0,sold,West Indies,Allrounder
-18738,--,--,--,--,--,--,--,--,0,sold,India,Allrounder
-13907,--,--,--,--,--,--,--,--,0,sold,India,Allrounder
-14504,--,--,--,--,--,--,--,--,0,sold,India,Batter
-12337,--,--,--,--,--,--,--,--,0,sold,India,Batter
-20538,3.0 Cr,--,--,--,--,--,--,--,--,sold,South Africa,Batter
-14190,--,--,--,--,--,--,--,--,0,unauctioned,India,Allrounder
-7860,--,--,--,--,--,--,--,--,0,sold,England,Bowler
-14595,--,--,--,--,--,--,--,--,0,sold,India,Allrounder
-11054,--,--,--,--,--,--,--,--,0,sold,India,Batter
-7869,--,--,--,--,--,--,--,--,0,sold,Sri Lanka,Batter
-10214,20.0 L,--,--,--,--,--,--,--,--,sold,India,WK-Batter
-11215,--,--,--,--,--,--,--,--,0,sold,West Indies,Bowler
-22601,--,--,--,--,--,--,--,--,0,sold,India,Bowler
-8616,--,--,--,--,--,--,--,--,0,sold,India,Allrounder
-9554,--,--,--,--,--,--,--,--,0,sold,South Africa,Batter
-14336,--,--,--,--,--,--,--,--,0,sold,India,Bowler
-11221,--,--,--,--,--,--,--,--,0,sold,West Indies,Bowler
-12639,--,--,--,--,--,--,--,--,0,sold,India,Bowler
-10353,30.0 L,20.0 L,--,--,--,80.0 L,80.0 L,2.40 Cr,--,sold,India,Bowler
-10713,--,--,--,--,--,--,--,--,0,sold,New Zealand,Allrounder
-12669,20.0 L,--,--,--,--,--,--,--,0,sold,India,Batter
-11172,--,--,--,--,--,--,--,--,0,sold,New Zealand,WK-Batter
-14726,20.0 L,--,--,--,--,--,--,--,--,sold,India,Bowler
-6592,--,--,--,--,--,--,--,--,0,sold,England,Allrounder
-9582,--,--,--,--,--,--,--,--,0,sold,South Africa,Batter
-19027,4.0 Cr,--,--,--,--,--,--,--,--,retained,India,Bowler
-13646,--,--,--,--,--,--,--,--,0,sold,West Indies,Bowler
-8136,--,--,--,--,--,--,--,--,0,sold,Australia,Allrounder
+playerId,Player name,2022,2021,2020,2019,2018,2017,2016,2015,2014,auctionStatus,country,role
+265.0,MS Dhoni,12.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,retained,India,WK-Batter
+7836.0,Deepak Chahar,14.0 Cr,80.0 L,80.0 L,80.0 L,80.0 L,10.0 L,10.0 L,0,0,sold,India,Bowler
+11813.0,Ruturaj Gaikwad,6.0 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,retained,India,Batter
+6667.0,Imran Tahir,0,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,50.0 L,1.0 Cr,1.0 Cr,1.0 Cr,unsold,South Africa,Bowler
+1851.0,Kedar Jadhav,2.0 Cr,7.80 Cr,7.80 Cr,7.80 Cr,2.0 Cr,2.0 Cr,2.0 Cr,2.0 Cr,0,unauctioned,India,Allrounder
+9783.0,Monu Kumar,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,0,unauctioned,India,Bowler
+6311.0,Ambati Rayudu,6.75 Cr,2.20 Cr,2.20 Cr,2.20 Cr,2.20 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,sold,India,WK-Batter
+10100.0,Mitchell Santner,50.0 L,50.0 L,50.0 L,50.0 L,0,0,0,0,0,sold,New Zealand,Allrounder
+8683.0,Shardul Thakur,10.75 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,20.0 L,20.0 L,20.0 L,20.0 L,sold,India,Bowler
+413.0,Suresh Raina,0,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,12.50 Cr,9.50 Cr,9.50 Cr,9.50 Cr,unsold,India,Batter
+242.0,Dwayne Bravo,4.40 Cr,6.40 Cr,6.40 Cr,6.40 Cr,6.40 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,sold,West Indies,Allrounder
+1844.0,Karn Sharma,5.0 Cr,5.0 Cr,5.0 Cr,5.0 Cr,3.20 Cr,3.75 Cr,3.75 Cr,3.75 Cr,0,sold,India,Bowler
+11595.0,Ravisrinivasan Sai Kishore,3.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
+11595.0,Ravisrinivasan Sai Kishore,3.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
+11595.0,R Sai Kishore,3.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
+11595.0,R Sai Kishore,3.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
+9603.0,Lungi Ngidi,50.0 L,50.0 L,50.0 L,50.0 L,0,0,0,0,0,sold,South Africa,Bowler
+11675.0,Narayan Jagadeesan,0,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,sold,India,WK-Batter
+587.0,Ravindra Jadeja,16.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,9.50 Cr,5.50 Cr,5.50 Cr,5.50 Cr,retained,India,Allrounder
+6258.0,Josh Hazlewood,7.75 Cr,2.0 Cr,2.0 Cr,0,0,0,0,0,0,sold,Australia,Bowler
+7825.0,Faf du Plessis,7.0 Cr,1.60 Cr,1.60 Cr,1.60 Cr,1.60 Cr,4.0 Cr,4.75 Cr,4.75 Cr,4.75 Cr,sold,South Africa,Batter
+466.0,Piyush Chawla,2.40 Cr,6.75 Cr,4.20 Cr,4.20 Cr,4.25 Cr,4.25 Cr,4.25 Cr,4.25 Cr,0,unsold,India,Bowler
+13483.0,KM Asif,20.0 L,40.0 L,40.0 L,40.0 L,40.0 L,0,0,0,0,sold,India,Bowler
+9428.0,Shreyas Iyer,12.25 Cr,7.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,2.60 Cr,2.60 Cr,2.60 Cr,0,sold,India,Batter
+9781.0,Avesh Khan,10.0 Cr,70.0 L,70.0 L,70.0 L,70.0 L,10.0 L,0,0,0,sold,India,Bowler
+11307.0,Tushar Deshpande,20.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
+10484.0,Praveen Dubey,20.0 L,0,0,0,35.0 L,35.0 L,0,0,0,sold,India,Bowler
+10484.0,Praveen Dubey,20.0 L,0,0,0,35.0 L,35.0 L,0,0,0,sold,India,Bowler
+10484.0,Praveen Dubey,20.0 L,0,0,0,35.0 L,35.0 L,0,0,0,sold,India,Bowler
+10484.0,Praveen Dubey,20.0 L,0,0,0,35.0 L,35.0 L,0,0,0,sold,India,Bowler
+13252.0,Lalit Yadav,20.0 L,20.0 L,0,0,0,0,0,0,0,sold,India,Allrounder
+11427.0,Anrich Nortje,6.50 Cr,50.0 L,50.0 L,0,0,0,0,0,0,retained,South Africa,Bowler
+8175.0,Harshal Patel,10.75 Cr,20.0 L,20.0 L,20.0 L,20.0 L,40.0 L,40.0 L,40.0 L,40.0 L,sold,India,Bowler
+11214.0,Keemo Paul,0,0,0,0,0,0,0,0,0,unauctioned,West Indies,Allrounder
+1447.0,Ajinkya Rahane,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,8.0 Cr,8.0 Cr,7.50 Cr,7.50 Cr,0,sold,India,Batter
+8181.0,Mohit Sharma,0,0,0,0,0,0,0,0,0,unauctioned,India,Bowler
+8989.0,Marcus Stoinis,9.20 Cr,4.80 Cr,4.80 Cr,6.20 Cr,6.20 Cr,55.0 L,55.0 L,0,0,drafted,Australia,Allrounder
+6534.0,Jason Roy,2.0 Cr,2.0 Cr,0,0,1.50 Cr,1.0 Cr,0,0,0,sold,England,Batter
+702.0,Ishant Sharma,1.10 Cr,1.10 Cr,1.10 Cr,0,2.0 Cr,3.80 Cr,1.50 Cr,1.50 Cr,0,unsold,India,Bowler
+1454.0,Amit Mishra,0,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,3.50 Cr,3.50 Cr,3.50 Cr,4.75 Cr,unsold,India,Bowler
+12094.0,Prithvi Shaw,7.50 Cr,1.20 Cr,1.20 Cr,1.20 Cr,1.20 Cr,0,0,0,0,retained,India,Batter
+13162.0,Daniel Sams,20.0 L,20.0 L,0,0,0,0,0,0,0,sold,Australia,Allrounder
+9585.0,Kagiso Rabada,9.25 Cr,4.20 Cr,4.20 Cr,4.20 Cr,4.20 Cr,5.0 Cr,0,0,0,sold,South Africa,Bowler
+8808.0,Axar Patel,9.0 Cr,5.0 Cr,5.0 Cr,5.0 Cr,12.50 Cr,75.0 L,75.0 L,75.0 L,75.0 L,retained,India,Allrounder
+10744.0,Rishabh Pant,16.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,1.90 Cr,1.90 Cr,0,0,retained,India,WK-Batter
+11158.0,Sandeep Lamichhane,0,0,0,0,0,0,0,0,0,unsold,Nepal,Bowler
+9789.0,Shimron Hetmyer,8.50 Cr,7.75 Cr,7.75 Cr,4.20 Cr,0,0,0,0,0,sold,West Indies,Batter
+1446.0,Shikhar Dhawan,8.25 Cr,5.20 Cr,5.20 Cr,5.20 Cr,5.20 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,sold,India,Batter
+1593.0,Ravichandran Ashwin,5.0 Cr,7.60 Cr,7.60 Cr,7.60 Cr,7.60 Cr,7.50 Cr,7.50 Cr,7.50 Cr,7.50 Cr,sold,India,Allrounder
+8733.0,KL Rahul,17.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,0,1.0 Cr,1.0 Cr,1.0 Cr,drafted,India,WK-Batter
+13217.0,Arshdeep Singh,4.0 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,retained,India,Bowler
+9395.0,Sheldon Cottrell,0,0,0,0,0,0,0,0,0,unsold,West Indies,Bowler
+8925.0,Krishnappa Gowtham,9.25 Cr,6.20 Cr,6.20 Cr,6.20 Cr,2.0 Cr,0,0,0,0,sold,India,Allrounder
+9427.0,Deepak Hooda,5.75 Cr,50.0 L,3.60 Cr,3.60 Cr,3.60 Cr,0,0,0,0,sold,India,Allrounder
+9429.0,Sarfaraz khan,20.0 L,25.0 L,25.0 L,25.0 L,1.75 Cr,0,50.0 L,50.0 L,0,sold,India,Batter
+7662.0,Glenn Maxwell,11.0 Cr,14.25 Cr,10.75 Cr,0,9.0 Cr,6.0 Cr,6.0 Cr,6.0 Cr,6.0 Cr,retained,Australia,Allrounder
+12071.0,Mujeeb Ur Rahman,0,1.50 Cr,4.0 Cr,4.0 Cr,4.0 Cr,0,0,0,0,unsold,Afghanistan,Bowler
+12779.0,Darshan Nalkande,30.0 L,30.0 L,30.0 L,0,0,0,0,0,0,sold,India,Bowler
+9406.0,Nicholas Pooran,10.75 Cr,4.20 Cr,4.20 Cr,4.20 Cr,0,30.0 L,0,0,0,sold,West Indies,WK-Batter
+14254.0,Prabhsimran Singh,60.0 L,55.0 L,4.80 Cr,4.80 Cr,0,0,0,0,0,sold,India,WK-Batter
+10357.0,Jagadeesha Suchith,20.0 L,30.0 L,20.0 L,20.0 L,0,10.0 L,10.0 L,10.0 L,0,sold,India,Bowler
+14659.0,Ravi Bishnoi,4.0 Cr,2.0 Cr,2.0 Cr,0,0,0,0,0,0,drafted,India,Bowler
+11404.0,Ishan Porel,25.0 L,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Bowler
+8983.0,James Neesham,50.0 L,50.0 L,0,0,0,0,0,1.0 Cr,0,sold,New Zealand,Allrounder
+8257.0,Karun Nair,50.0 L,5.60 Cr,5.60 Cr,5.60 Cr,4.0 Cr,4.0 Cr,75.0 L,75.0 L,0,sold,India,Batter
+7909.0,Mohammed Shami,6.25 Cr,4.80 Cr,4.80 Cr,4.80 Cr,3.0 Cr,0,4.25 Cr,4.25 Cr,4.25 Cr,sold,India,Bowler
+6319.0,Mandeep Singh,1.40 Cr,1.40 Cr,1.40 Cr,1.40 Cr,0,0,0,0,0,sold,India,Batter
+6532.0,Chris Jordan,3.0 Cr,3.0 Cr,0,1.0 Cr,50.0 L,0,0,0,0,sold,England,Allrounder
+14452.0,Harpreet Brar,3.80 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Bowler
+8796.0,Murugan Ashwin,1.60 Cr,20.0 L,20.0 L,20.0 L,2.20 Cr,1.0 Cr,4.50 Cr,0,0,sold,India,Bowler
+2195.0,Mayank Agarwal,12.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,1.60 Cr,1.60 Cr,1.60 Cr,1.60 Cr,retained,India,Batter
+624.0,Eoin Morgan,5.25 Cr,5.25 Cr,0,0,2.0 Cr,1.50 Cr,1.50 Cr,0,0,unsold,England,Batter
+8095.0,Pat Cummins,7.25 Cr,15.50 Cr,15.50 Cr,0,5.40 Cr,4.50 Cr,0,1.0 Cr,1.0 Cr,sold,Australia,Bowler
+10162.0,Chris Green,0,0,0,0,0,0,0,0,0,unauctioned,Australia,Allrounder
+8292.0,Kuldeep Yadav,2.0 Cr,5.80 Cr,5.80 Cr,5.80 Cr,5.80 Cr,40.0 L,40.0 L,40.0 L,40.0 L,sold,India,Bowler
+12092.0,Kamlesh Nagarkoti,1.10 Cr,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,0,0,0,0,sold,India,Bowler
+2276.0,Sunil Narine,6.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,9.50 Cr,9.50 Cr,9.50 Cr,9.50 Cr,retained,West Indies,Allrounder
+9204.0,Nitish Rana,8.0 Cr,3.40 Cr,3.40 Cr,3.40 Cr,3.40 Cr,10.0 L,10.0 L,10.0 L,0,sold,India,Allrounder
+8944.0,Sandeep Warrier,20.0 L,20.0 L,20.0 L,0,0,0,10.0 L,10.0 L,0,unsold,India,Bowler
+11808.0,Shubman Gill,8.0 Cr,1.80 Cr,1.80 Cr,1.80 Cr,1.80 Cr,0,0,0,0,drafted,India,Batter
+10896.0,Rinku Singh,80.0 L,80.0 L,80.0 L,80.0 L,10.0 L,0,0,0,0,sold,India,Batter
+12926.0,Varun Chakravarthy,8.0 Cr,4.0 Cr,4.0 Cr,8.40 Cr,0,0,0,0,0,retained,India,Bowler
+11450.0,Ali Khan,0,0,0,0,0,0,0,0,0,unauctioned,United States,Bowler
+9012.0,Rahul Tripathi,8.50 Cr,60.0 L,60.0 L,3.40 Cr,3.40 Cr,10.0 L,0,0,0,sold,India,Batter
+12345.0,Shivam Mavi,7.25 Cr,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,0,0,0,0,sold,India,Bowler
+7736.0,Andre Russell,12.0 Cr,8.50 Cr,8.50 Cr,8.50 Cr,8.50 Cr,0,60.0 L,60.0 L,60.0 L,retained,West Indies,Allrounder
+10551.0,Prasidh Krishna,10.0 Cr,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,sold,India,Bowler
+9295.0,Nikhil Naik,0,0,0,0,0,0,0,0,0,unauctioned,India,WK-Batter
+145.0,Dinesh Karthik,5.50 Cr,7.40 Cr,7.40 Cr,7.40 Cr,7.40 Cr,2.30 Cr,2.30 Cr,10.50 Cr,12.50 Cr,sold,India,WK-Batter
+10692.0,Lockie Ferguson,10.0 Cr,1.60 Cr,1.60 Cr,1.60 Cr,0,50.0 L,0,0,0,sold,New Zealand,Bowler
+576.0,Rohit Sharma,16.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,15.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,retained,India,Batter
+8117.0,"
+Trent Boult",8.0 Cr,2.20 Cr,2.20 Cr,2.20 Cr,2.20 Cr,5.0 Cr,3.80 Cr,3.80 Cr,0,sold,New Zealand,Bowler
+12087.0,Rahul Chahar,5.25 Cr,1.90 Cr,1.90 Cr,1.90 Cr,1.90 Cr,10.0 L,0,0,0,sold,India,Bowler
+8520.0,Quinton de Kock,6.75 Cr,2.80 Cr,2.80 Cr,2.80 Cr,2.80 Cr,3.50 Cr,3.50 Cr,3.50 Cr,3.50 Cr,sold,South Africa,WK-Batter
+10276.0,Ishan Kishan,15.25 Cr,6.20 Cr,6.20 Cr,6.20 Cr,6.20 Cr,35.0 L,35.0 L,0,0,sold,India,WK-Batter
+7752.0,Chris Lynn,2.0 Cr,2.0 Cr,9.60 Cr,9.60 Cr,1.30 Cr,1.30 Cr,1.30 Cr,1.30 Cr,0,unauctioned,Australia,Batter
+9647.0,Hardik Pandya,15.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,10.0 L,10.0 L,10.0 L,0,drafted,India,Allrounder
+657.0,Kieron Pollard,6.0 Cr,5.40 Cr,5.40 Cr,5.40 Cr,5.40 Cr,7.50 Cr,7.50 Cr,7.50 Cr,7.50 Cr,retained,West Indies,Allrounder
+12344.0,Anukul Roy,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Allrounder
+6315.0,Aditya Tare,20.0 L,20.0 L,20.0 L,20.0 L,25.0 L,25.0 L,1.6 Cr,1.60 Cr,0,unauctioned,India,WK-Batter
+8182.0,Jayant Yadav,50.0 L,50.0 L,50.0 L,50.0 L,10.0 L,10.0 L,10.0 L,10.0 L,0,sold,India,Allrounder
+7915.0,Suryakumar Yadav,8.0 Cr,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,70.0 L,70.0 L,70.0 L,70.0 L,retained,India,Batter
+1601.0,Saurabh Tiwary,50.0 L,50.0 L,0,50.0 L,30.0 L,70.0 L,70.0 L,70.0 L,0,unsold,India,Batter
+13748.0,Sherfane Rutherford,0,2.0 Cr,2.0 Cr,2.0 Cr,0,0,0,0,0,sold,West Indies,Allrounder
+11311.0,Krunal Pandya,8.25 Cr,8.80 Cr,8.80 Cr,8.80 Cr,8.80 Cr,2.0 Cr,2.0 Cr,0,0,sold,India,Allrounder
+1451.0,Dhawal Kulkarni,75.0 L,75.0 L,75.0 L,75.0 L,2.30 Cr,2.30 Cr,1.10 Cr,1.10 Cr,0,unsold,India,Bowler
+9311.0,Jasprit Bumrah,12.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,7.0 Cr,1.20 Cr,1.20 Cr,1.20 Cr,1.20 Cr,retained,India,Bowler
+10947.0,Anmolpreet Singh,0,80.0 L,80.0 L,80.0 L,0,0,0,0,0,sold,India,Batter
+2250.0,Steven Smith,0,2.20 Cr,12.50 Cr,12.50 Cr,12.50 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,unsold,Australia,Batter
+14696.0,Akash Singh,20.0 L,0,0,0,0,0,0,0,0,unsold,India,Bowler
+11540.0,Jofra Archer,7.20 Cr,7.20 Cr,7.20 Cr,7.20 Cr,0,0,0,0,0,sold,England,Bowler
+13940.0,Yashasvi Jaiswal,4.0 Cr,2.40 Cr,2.40 Cr,0,0,0,0,0,0,retained,India,Batter
+13136.0,Kartik Tyagi,4.0 Cr,1.30 Cr,1.30 Cr,0,0,0,0,0,0,sold,India,Bowler
+12627.0,Mayank Markande,2.0 Cr,2.0 Cr,20.0 L,20.0 L,0,0,0,0,0,sold,India,Bowler
+12305.0,Riyan Parag,3.80 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Allrounder
+8271.0,Sanju Samson,14.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,8.0 Cr,4.20 Cr,4.20 Cr,4.0 Cr,4.0 Cr,retained,India,WK-Batter
+11442.0,Oshane Thomas,0,50.0 L,0,0,0,0,0,0,0,unauctioned,West Indies,Allrounder
+6327.0,"
+Jaydev Unadkat",3.0 Cr,3.0 Cr,8.40 Cr,11.50 Cr,30.0 L,1.60 Cr,1.10 Cr,2.80 Cr,0,sold,India,Bowler
+8358.0,Manan Vohra,20.0 L,20.0 L,20.0 L,1.10 Cr,4.0 Cr,4.0 Cr,4.0 Cr,4.0 Cr,0,sold,India,Batter
+527.0,Robin Uthappa,2.0 Cr,3.0 Cr,3.0 Cr,6.40 Cr,6.40 Cr,5.0 Cr,5.0 Cr,5.0 Cr,5.0 Cr,sold,India,Batter
+9617.0,Andrew Tye,0,0,0,0,0,0,0,0,0,unsold,Australia,Bowler
+9693.0,Rahul Tewatia,9.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,25.0 L,0,10.0 L,10.0 L,sold,India,Allrounder
+10919.0,Shashank Singh,0,0,0,0,0,0,0,0,0,sold,India,Batter
+8924.0,Ankit Rajpoot,50.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
+6349.0,David Miller,0,75.0 L,75.0 L,3.0 Cr,3.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,sold,South Africa,Batter
+10954.0,Mahipal Lomror,20.0 L,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Allrounder
+9746.0,Shreyas Gopal,75.0 L,20.0 L,20.0 L,20.0 L,20.0 L,10.0 L,10.0 L,10.0 L,10.0 L,sold,India,Bowler
+2258.0,Jos Buttler,10.0 Cr,4.40 Cr,4.40 Cr,4.40 Cr,4.40 Cr,3.80 Cr,3.80 Cr,0,0,retained,England,WK-Batter
+13135.0,Anuj Rawat,3.40 Cr,80.0 L,80.0 L,0,0,0,0,0,0,sold,India,WK-Batter
+6293.0,Varun Aaron,0,0,0,0,0,0,0,0,0,sold,India,Bowler
+1413.0,Virat Kohli,15.0 Cr,17.0 Cr,17.0 Cr,17.0 Cr,17.0 Cr,12.50 Cr,12.50 Cr,12.50 Cr,12.50 Cr,retained,India,Batter
+7910.0,Yuzvendra Chahal,6.50 Cr,6.0 Cr,6.0 Cr,6.0 Cr,6.0 Cr,10.0 L,10.0 L,10.0 L,10.0 L,sold,India,Bowler
+1643.0,Aaron Finch,0,0,0,0,0,0,0,0,0,unsold,Australia,Batter
+10808.0,Mohammed Siraj,7.0 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,0,0,0,retained,India,Bowler
+8281.0,Pawan Negi,50.0 L,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,8.50 Cr,10.0 L,10.0 L,0,unsold,India,Allrounder
+9715.0,Navdeep Saini,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,0,0,0,0,0,sold,India,Bowler
+10945.0,Washington Sundar,8.75 Cr,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,0,0,0,0,sold,India,Allrounder
+8642.0,Adam Zampa,0,1.50 Cr,1.50 Cr,0,0,30.0 L,30.0 L,0,0,unsold,Australia,Bowler
+1858.0,Umesh Yadav,0,1.0 Cr,4.20 Cr,4.20 Cr,4.20 Cr,2.60 Cr,2.60 Cr,2.60 Cr,2.60 Cr,sold,India,Bowler
+1920.0,Isuru Udana,0,0,0,0,0,0,0,0,0,unauctioned,Sri Lanka,Allrounder
+14606.0,Shahbaz Ahmed,2.40 Cr,20.0 L,20.0 L,0,0,0,0,0,0,sold,India,Allrounder
+13172.0,Josh Philippe,20.0 L,20.0 L,0,0,0,0,0,0,0,unauctioned,Australia,WK-Batter
+13088.0,Devdutt Padikkal,7.75 Cr,20.0 L,20.0 L,20.0 L,0,0,0,0,0,sold,India,Batter
+8298.0,Gurkeerat Singh Mann,0,50.0 L,50.0 L,75.0 L,1.30 Cr,1.30 Cr,1.30 Cr,1.30 Cr,0,sold,India,Allrounder
+11195.0,Shivam Dube,4.40 Cr,5.0 Cr,5.0 Cr,0,0,0,0,0,0,sold,India,Allrounder
+6692.0,Moeen Ali,8.0 Cr,7.0 Cr,1.70 Cr,1.70 Cr,1.70 Cr,0,0,0,0,retained,England,Allrounder
+1739.0,David Warner,6.25 Cr,12.50 Cr,12.50 Cr,12.50 Cr,0,5.50 Cr,5.50 Cr,5.50 Cr,5.50 Cr,sold,Australia,Batter
+12086.0,Abhishek Sharma,6.50 Cr,55.0 L,55.0 L,55.0 L,55.0 L,0,0,0,0,sold,India,Allrounder
+9785.0,Fabian Allen,50.0 L,50.0 L,0,0,0,0,0,0,0,sold,West Indies,Allrounder
+10267.0,Basil Thampi,30.0 L,95.0 L,95.0 L,95.0 L,95.0 L,85.0 L,0,0,0,sold,India,Bowler
+1807.0,Shreevats Goswami,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,0,0,0,0,unauctioned,India,WK-Batter
+1828.0,Siddarth Kaul,3.80 Cr,3.80 Cr,3.80 Cr,3.80 Cr,10.0 L,10.0 L,10.0 L,45.0 L,0,sold,India,Bowler
+7906.0,Shahbaz Nadeem,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,85.0 L,85.0 L,85.0 L,85.0 L,0,sold,India,Bowler
+1836.0,Manish Pandey,4.60 Cr,11.0 Cr,11.0 Cr,11.0 Cr,11.0 Cr,1.70 Cr,1.70 Cr,1.70 Cr,1.70 Cr,sold,India,Batter
+10738.0,Rashid Khan,15.0 Cr,9.0 Cr,9.0 Cr,9.0 Cr,9.0 Cr,4.0 Cr,0,0,0,drafted,Afghanistan,Bowler
+11631.0,Sanjay Yadav,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
+9572.0,Billy Stanlake,0,0,0,0,0,0,0,0,0,unauctioned,Australia,Bowler
+6326.0,Kane Williamson,14.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,60.0 L,60.0 L,60.0 L,0,retained,New Zealand,Batter
+10213.0,Virat Singh,1.90 Cr,1.90 Cr,0,0,0,0,0,0,0,unsold,India,Batter
+8204.0,Vijay Shankar,3.20 Cr,3.20 Cr,3.20 Cr,3.20 Cr,35.0 L,35.0 L,0,10.0 L,0,sold,India,Allrounder
+8356.0,Sandeep Sharma,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,85.0 L,85.0 L,85.0 L,85.0 L,0,sold,India,Bowler
+1465.0,Wriddhiman Saha,0,1.20 Cr,1.20 Cr,1.20 Cr,5.0 Cr,2.20 Cr,2.20 Cr,2.20 Cr,2.20 Cr,sold,India,WK-Batter
+13113.0,Prithvi Raj,0,0,0,0,0,0,0,0,0,unauctioned,India,Bowler
+10225.0,T Natarajan,4.0 Cr,40.0 L,40.0 L,40.0 L,40.0 L,3.0 Cr,0,0,0,sold,India,Bowler
+3007.0,Mohammad Nabi,0,1.0 Cr,1.0 Cr,1.0 Cr,1.0 Cr,30.0 L,0,0,0,sold,Afghanistan,Allrounder
+8313.0,Jason Holder,8.75 Cr,75.0 L,75.0 L,0,0,0,70.0 L,0,75.0 L,sold,West Indies,Allrounder
+12089.0,Priyam Garg,20.0 L,1.90 Cr,1.90 Cr,0,0,0,0,0,0,sold,India,Batter
+6507.0,Jonny Bairstow,6.75 Cr,2.20 Cr,2.20 Cr,2.20 Cr,0,0,0,0,0,sold,England,WK-Batter
+10952.0,Khaleel Ahmed,3.0 Cr,3.0 Cr,3.0 Cr,3.0 Cr,10.0 L,10.0 L,0,0,0,sold,India,Bowler
+14628.0,Abdul Samad,4.0 Cr,20.0 L,20.0 L,0,0,0,0,0,0,retained,India,Allrounder
+1448.0,Cheteshwar Pujara,50.0 L,0,0,0,0,0,0,1.90 Cr,0,unsold,India,Batter
+9244.0,Lukman Hussain Meriwala,20.0 L,0,0,0,0,0,0,0,0,unauctioned,India,Bowler
+7990.0,Sam Billings,0,2.0 Cr,0,1.0 Cr,1.0 Cr,30.0 L,30.0 L,0,0,sold,England,WK-Batter
+11893.0,Vishnu Vinod,0,20.0 L,0,0,0,0,0,0,0,sold,India,WK-Batter
+9443.0,Tim Seifert,50.0 L,50.0 L,0,0,0,0,0,0,0,sold,New Zealand,WK-Batter
+544.0,Shakib al Hasan,0,3.20 Cr,0,2.0 Cr,2.0 Cr,2.80 Cr,2.80 Cr,2.80 Cr,2.80 Cr,unsold,Bangladesh,Allrounder
+8846.0,Sheldon Jackson,60.0 L,20.0 L,0,0,0,15.0 L,15.0 L,15.0 L,0,sold,India,WK-Batter
+15861.0,Vaibhav Arora,20.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
+8118.0,Ben Cutting,75.0 L,0,2.20 Cr,2.20 Cr,50.0 L,50.0 L,80.0 L,80.0 L,0,unsold,Australia,Allrounder
+10917.0,Venkatesh Iyer,8.0 Cr,20.0 L,0,0,0,0,0,0,0,retained,India,Allrounder
+7625.0,Adam Milne,3.20 Cr,75.0 L,0,75.0 L,70.0 L,70.0 L,70.0 L,0,0,sold,New Zealand,Bowler
+14565.0,Marco Jansen,20.0 L,20.0 L,0,0,0,0,0,0,0,sold,South Africa,Allrounder
+6660.0,Dawid Malan,0,0,0,0,0,0,0,0,0,unsold,England,Batter
+10226.0,Shahrukh Khan,9.0 Cr,5.25 Cr,0,0,0,0,0,0,0,sold,India,Batter
+12226.0,Riley Meredith,0,0,0,0,0,0,0,0,0,sold,Australia,Bowler
+1437.0,Moises Henriques,4.20 Cr,1.0 Cr,1.0 Cr,0,0,1.0 Cr,1.0 Cr,1.0 Cr,0,unsold,Australia,Allrounder
+8107.0,Jalaj Saxena,30.0 L,20.0 L,20.0 L,0,0,0,10.0 L,90.0 L,0,unauctioned,India,Allrounder
+15480.0,Nathan Ellis,20.0 L,0,0,0,0,0,0,0,0,sold,Australia,Bowler
+9863.0,Mustafizur Rahim,2.0 Cr,1.0 Cr,0,0,2.20 Cr,1.40 Cr,1.40 Cr,0,0,sold,Bangladesh,Bowler
+9863.0,Mustafizur Rahim,2.0 Cr,1.0 Cr,0,0,2.20 Cr,1.40 Cr,1.40 Cr,0,0,sold,Bangladesh,Bowler
+9863.0,Mustafizur Rahman,2.0 Cr,1.0 Cr,0,0,2.20 Cr,1.40 Cr,1.40 Cr,0,0,sold,Bangladesh,Bowler
+9863.0,Mustafizur Rahman,2.0 Cr,1.0 Cr,0,0,2.20 Cr,1.40 Cr,1.40 Cr,0,0,sold,Bangladesh,Bowler
+13494.0,Chetan Sakariya,1.20 Cr,0,0,0,0,0,0,0,0,sold,India,Bowler
+10045.0,Liam Livingstone,75.0 L,0,0,0,0,0,0,0,0,sold,England,Allrounder
+13537.0,Kuldip Yadav,20.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
+10693.0,Glenn Phillips,0,0,0,0,0,0,0,0,0,sold,New Zealand,WK-Batter
+8709.0,Sachin Baby,20.0 L,0,0,20.0 L,10.0 L,10.0 L,0,0,0,unsold,India,Batter
+10636.0,Rajat Patidar,0,20.0 L,0,0,0,0,0,0,0,unsold,India,Batter
+12669.0,Suyesh Prabhudessai,20.0 L,0,0,0,0,0,0,0,0,sold,India,Batter
+12669.0,Suyesh Prabhudessai,20.0 L,0,0,0,0,0,0,0,0,sold,India,Batter
+12669.0,Suyash Prabhudessai,20.0 L,0,0,0,0,0,0,0,0,sold,India,Batter
+12669.0,Suyash Prabhudessai,20.0 L,0,0,0,0,0,0,0,0,sold,India,Batter
+13169.0,Tim David,20.0 L,0,0,0,0,0,0,0,0,sold,Singapore,Allrounder
+8393.0,Dushmantha Chameera,0,0,0,0,0,0,0,0,0,sold,Sri Lanka,Bowler
+10926.0,Wanindu Hasaranga,10.75 Cr,0,0,0,0,0,0,0,0,sold,Sri Lanka,Allrounder
+1726.0,Bhuvneshwar Kumar,4.20 Cr,8.50 Cr,8.50 Cr,8.50 Cr,8.50 Cr,4.25 Cr,4.25 Cr,4.25 Cr,4.25 Cr,sold,India,Bowler
+13866.0,Sai Sudharshan,0,0,0,0,0,0,0,0,0,sold,India,Batter
+13213.0,Rahmanullah Gurbaz,0,0,0,0,0,0,0,0,0,unsold,Afghanistan,WK-Batter
+1649.0,Matthew Wade,0,0,0,0,0,0,0,0,0,sold,Australia,WK-Batter
+14172.0,Yash Dayal,0,0,0,0,0,0,0,0,0,sold,India,Bowler
+1472.0,Pradeep Sangwan,0,0,0,0,0,0,0,0,0,sold,India,Bowler
+11220.0,Alzarri Joseph,0,0,0,0,0,0,0,0,0,sold,West Indies,Bowler
+15452.0,Noor Ahmad,30.0 L,0,0,0,0,0,0,0,0,sold,Afghanistan,Bowler
+13750.0,Dominic Drakes,0,0,0,0,0,0,0,0,0,sold,West Indies,Allrounder
+9838.0,Devon Conway,0,0,0,0,0,0,0,0,0,sold,New Zealand,Batter
+18504.0,Maheesh Theekshana,0,0,0,0,0,0,0,0,0,sold,Sri Lanka,Bowler
+16458.0,Matheesha Pathirana,0,0,0,0,0,0,0,0,0,unsold,Sri Lanka,Bowler
+13184.0,Mukesh Choudhary,0,0,0,0,0,0,0,0,0,sold,India,Bowler
+12805.0,Prashant Solanki,0,0,0,0,0,0,0,0,0,sold,India,Bowler
+11445.0,Rovman Powell,0,0,0,0,0,0,0,0,0,sold,West Indies,Batter
+6250.0,Mitchell Marsh	,6.50 Cr,0,0,0,0,0,0,0,0,sold,Australia,Allrounder
+12813.0,Abhijeet Tomar,0,0,0,0,0,0,0,0,0,sold,India,Batter
+9624.0,Baba Indrajith,0,0,0,0,0,0,0,0,0,sold,India,Batter
+1057.0,Tim Southee,0,0,1.0 Cr,1.0 Cr,2.50 Cr,2.50 Cr,1.21 Cr,1.20 Cr,0,sold,New Zealand,Bowler
+9500.0,Chamika Karunaratne,0,0,0,0,0,0,0,0,0,sold,Sri Lanka,Bowler
+8579.0,Evin Lewis,0,0,0,0,0,0,0,0,0,sold,West Indies,Batter
+8440.0,Kyle Mayers,0,0,0,0,0,0,0,0,0,sold,West Indies,Allrounder
+18738.0,Karan Sharma,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
+13907.0,Ayush Badoni,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
+14504.0,Tilak Varma,0,0,0,0,0,0,0,0,0,sold,India,Batter
+12337.0,Ramandeep Singh,0,0,0,0,0,0,0,0,0,sold,India,Batter
+20538.0,Dewald Brevis,3.0 Cr,0,0,0,0,0,0,0,0,sold,South Africa,Batter
+14190.0,Kumar Kartikeya Singh,0,0,0,0,0,0,0,0,0,unauctioned,India,Allrounder
+7860.0,Tymal Mills,0,0,0,0,0,0,0,0,0,sold,England,Bowler
+14595.0,Hrithik Shokeen,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
+11054.0,Prerak Mankad,0,0,0,0,0,0,0,0,0,sold,India,Batter
+7869.0,Bhanuka Rajapaksa,0,0,0,0,0,0,0,0,0,sold,Sri Lanka,Batter
+10214.0,Jitesh Sharma,20.0 L,0,0,0,0,0,0,0,0,sold,India,WK-Batter
+11215.0,Odean Smith,0,0,0,0,0,0,0,0,0,sold,West Indies,Bowler
+22601.0,Raj Bawa	,0,0,0,0,0,0,0,0,0,sold,India,Bowler
+8616.0,Rishi Dhawan,0,0,0,0,0,0,0,0,0,sold,India,Allrounder
+9554.0,Rassie van der Dussen,0,0,0,0,0,0,0,0,0,sold,South Africa,Batter
+14336.0,Kuldeep Sen,0,0,0,0,0,0,0,0,0,sold,India,Bowler
+11221.0,Obed McCoy,0,0,0,0,0,0,0,0,0,sold,West Indies,Bowler
+12639.0,Tejas Baroka,0,0,0,0,0,0,0,0,0,sold,India,Bowler
+10353.0,KC Cariappa,30.0 L,20.0 L,0,0,0,80.0 L,80.0 L,2.40 Cr,0,sold,India,Bowler
+10713.0,Daryl Mitchell,0,0,0,0,0,0,0,0,0,sold,New Zealand,Allrounder
+11172.0,Finn Allen ,0,0,0,0,0,0,0,0,0,sold,New Zealand,WK-Batter
+14726.0,Akash Deep,20.0 L,0,0,0,0,0,0,0,0,sold,India,Bowler
+6592.0,David Willey,0,0,0,0,0,0,0,0,0,sold,England,Allrounder
+9582.0,Aiden Markram,0,0,0,0,0,0,0,0,0,sold,South Africa,Batter
+19027.0,Umran Malik,4.0 Cr,0,0,0,0,0,0,0,0,retained,India,Bowler
+13646.0,Romario Shepherd,0,0,0,0,0,0,0,0,0,sold,West Indies,Bowler
+8136.0,Sean Abbott,0,0,0,0,0,0,0,0,0,sold,Australia,Allrounder
